@@ -9,9 +9,9 @@ const FeatureList = [
     description: <>Welcome to my Internet home.</>,
   },
   {
-    title: "Notes",
+    title: "Docs",
     image: "/img/book.svg",
-    description: <>Structured notes for specific topics</>,
+    description: <>Structured notes for specific topics, similar to a book.</>,
   },
   {
     title: "Blogs",
