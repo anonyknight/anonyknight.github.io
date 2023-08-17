@@ -1,7 +1,8 @@
 ---
 title: STAR/CAR Method
 date: 'July 12, 2021'
-tags: ['Big Data']
+tags: ['Interview']
+authors: [dingan]
 ---
 
 The STAR format stands for ***Situation*,*Task*,*Action*,*Result***:

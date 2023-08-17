@@ -2,6 +2,7 @@
 title: Introduction to Data Engineering
 date: 'April 17, 2023'
 tags: ['Big Data']
+authors: [dingan]
 ---
 
 ## Big data pipelines
