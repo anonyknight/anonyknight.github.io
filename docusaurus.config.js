@@ -44,6 +44,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/anonyknight" + baseUrl + "/edit/master/",
+          showLastUpdateTime: true,
         },
         blog: {
           showReadingTime: true, // When set to false, the "x min read" won't be shown
