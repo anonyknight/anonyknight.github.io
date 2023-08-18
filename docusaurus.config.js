@@ -43,11 +43,12 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/anonyknight" + baseUrl + "/edit/master/",
+          editUrl: "https://github.com/anonyknight" + baseUrl + "/edit/master/",
         },
         blog: {
-          showReadingTime: true,
+          showReadingTime: true, // When set to false, the "x min read" won't be shown
+          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+            defaultReadingTime({ content, options: { wordsPerMinute: 220 } }),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
@@ -60,6 +61,7 @@ const config = {
     ],
   ],
   plugins: [
+    require.resolve("@cmfcmf/docusaurus-search-local"),
     async function myPlugin(context, options) {
       return {
         name: "docusaurus-tailwindcss",
