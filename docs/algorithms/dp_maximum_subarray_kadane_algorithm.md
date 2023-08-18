@@ -1,7 +1,8 @@
 ---
 title: Dynamic Programming
-date: 'August 8, 2021'
 tags: ['Algorithms']
+last_update:
+  date: 'August 8, 2021'
 ---
 # DP Maximum Subarray - Kadane’s Algorithm
 
