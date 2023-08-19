@@ -1,7 +1,7 @@
 ---
 title: Functional Programming
 last_update:
-date: 'July 17, 2021'
+    date: 'July 17, 2021'
 tags: ['JS', 'linux']
 ---
 
