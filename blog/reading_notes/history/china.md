@@ -4,6 +4,7 @@ date: '2021-10-05'
 tags: ['life', 'China']
 draft: false
 summary:  Chinese history
+authors: [dingan]
 ---
 
 ## Current China

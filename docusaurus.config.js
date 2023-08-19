@@ -54,6 +54,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/anonyknight/" + baseUrl + "/edit/master/",
+          blogSidebarCount: "ALL"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -78,8 +79,6 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
-      // Replace with your project's social card
-      image: "img/docusaurus-social-card.jpg",
       navbar: {
         title: "Anonyknight",
         logo: {
@@ -93,8 +92,12 @@ const config = {
             position: "left",
             label: "Docs",
           },
-          { to: "/blog", label: "Blog", position: "left" },
-          { to: "/about_me", label: "About Me"},
+          {
+            to: "/blog",
+            label: "Blog",
+            position: "left",
+          },
+          { to: "/about_me", label: "About Me" },
           {
             href: "https://github.com/anonyknight",
             label: "GitHub",

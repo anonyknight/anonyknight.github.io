@@ -4,6 +4,7 @@ date: '2022-06-10'
 tags: ['life']
 draft: false
 summary:  小说名单
+authors: [dingan]
 ---
 
 小说名单

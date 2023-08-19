@@ -4,6 +4,7 @@ date: '2021-09-15'
 tags: ['reading']
 draft: false
 summary:  The wisdom starts from knowing yourself.
+authors: [dingan]
 ---
 
 ## Psychology Reading list.

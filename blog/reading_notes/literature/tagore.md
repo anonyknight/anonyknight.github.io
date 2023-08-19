@@ -4,6 +4,7 @@ date: '2023-08-06'
 tags: ['life', 'literature']
 draft: false
 summary:  Rabindranath Tagore
+authors: [dingan]
 ---
 
 ## [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore)

@@ -3,7 +3,8 @@ title: Politics
 date: '2022-06-10'
 tags: ['life']
 draft: false
-summary:  Politics in BC.
+summary:  Politics in BC
+authors: [dingan]
 ---
 
 ## BC NDP

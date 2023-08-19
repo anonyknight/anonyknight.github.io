@@ -4,6 +4,7 @@ date: '2021-09-17'
 tags: ['life']
 draft: false
 summary:  Politics study
+authors: [dingan]
 ---
 
 ## Canadian Politics 2021 Election

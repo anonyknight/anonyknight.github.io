@@ -25,3 +25,5 @@ subprocess.run("exit 1", shell=True, check=True)
 ## [Shell Parameter Expansion](https://www.gnu.org/software/bash/manual/html_node/Shell-Parameter-Expansion.html)
 
 [What does a minus sign inside of dollar brackets of a shell script mean?](https://serverfault.com/questions/679956/what-does-a-minus-sign-inside-of-dollar-brackets-of-a-shell-script-mean)
+
+[I/O Redirection](http://tldp.org/LDP/abs/html/io-redirection.html)
