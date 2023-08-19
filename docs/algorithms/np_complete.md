@@ -1,6 +1,7 @@
 ---
 title: NP Complete
-date: 'August 8, 2021'
+last_update:
+    date: 'August 8, 2021'
 tags: ['Algorithms']
 ---
 

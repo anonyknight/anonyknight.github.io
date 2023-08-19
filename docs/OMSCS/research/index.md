@@ -1,6 +1,6 @@
 ---
-title: DevSecOps
-summary: DevSecOps Introduction
+title: Research 
+summary: Research introduction.
 date: 'August 8, 2021'
 tags: ['OMSCS']
 ---
