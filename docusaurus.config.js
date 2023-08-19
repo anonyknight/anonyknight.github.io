@@ -94,6 +94,7 @@ const config = {
             label: "Docs",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/about_me", label: "About Me"},
           {
             href: "https://github.com/anonyknight",
             label: "GitHub",
