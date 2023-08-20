@@ -1,13 +1,14 @@
 ---
-title: CSE 6242 Data & Visual Analytics
-summary: CSE 6242 OMSCS DVA class notes.
-date: 'August 27, 2021'
+title: CSE6242 Data & Visual Analytics
+summary: CSE6242 OMSCS DVA class notes.
+last_update:
+  date: 'August 27, 2021'
 tags: ['OMSCS', 'Visualization', 'Algorithms']
 ---
 
 [Data & Visual Analytics](https://gatech.instructure.com/courses/170430)
 
-## Fun Materials for the week:
+## Fun Materials for the week
 
 ### How to create an intuitive statistical visualization?
 

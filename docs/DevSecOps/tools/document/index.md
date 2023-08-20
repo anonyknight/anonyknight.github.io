@@ -1,5 +1,5 @@
 ---
-title: Docs
+title: Docs tools
 summary:  Technical Documentation
 date: '2021-08-13'
 tags: ['Mathmatics', 'Docs']

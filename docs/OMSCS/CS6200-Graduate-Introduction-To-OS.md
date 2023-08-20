@@ -11,5 +11,10 @@ last_update:
 
 2. IPC
 
-3. Client/server communication and request handling with 
+3. Client/server communication and request handling with
 gRPC and distributed file system implementation.
+
+
+## References
+
+[OMSCS CS6200 (Introduction to OS) Review and Tips](https://eugeneyan.com/writing/omscs-cs6200-introduction-to-operating-systems/)

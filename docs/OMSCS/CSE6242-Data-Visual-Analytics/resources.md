@@ -1,7 +1,8 @@
 ---
 title: CSE 6242 Data & Visual Analytics-Resource
 summary: CSE 6242 DVA class notes.
-date: 'August 27, 2021'
+last_update:
+  date: 'August 27, 2021'
 tags: ['OMSCS', 'Visualization', 'Algorithms']
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: CS7646-ML4T
 summary: CS7646 Machine Learning for Trading - Machine Learning algorithms and its application
-date: 'August 27, 2021'
+last_update:
+  date: 'August 27, 2021'
 tags: ['OMSCS', 'Machine-Learning', 'Algorithms']
 ---
 
