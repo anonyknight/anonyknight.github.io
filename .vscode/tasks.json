@@ -1,0 +1,19 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+    {
+      "label": "Build",
+      "type": "npm",
+      "script": "build",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "problemMatcher": [],
+      "detail": "docusaurus build",
+      "runOptions": {
+        "runOn": "default"
+      }
+    }
+  ]
+}
