@@ -54,7 +54,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl:
             "https://github.com/anonyknight/" + baseUrl + "/edit/master/",
-          blogSidebarCount: "ALL"
+          blogSidebarCount: "ALL",
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -88,7 +88,7 @@ const config = {
         items: [
           {
             type: "docSidebar",
-            sidebarId: "tutorialSidebar",
+            sidebarId: "docsSidebarID",
             position: "left",
             label: "Docs",
           },
@@ -97,7 +97,7 @@ const config = {
             label: "Blog",
             position: "left",
           },
-          { to: "/about_me", label: "About Me" },
+          { to: "/about_me", label: "About Me", position: "right" },
           {
             href: "https://github.com/anonyknight",
             label: "GitHub",

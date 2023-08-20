@@ -7,17 +7,6 @@ import BlogSVG from "@site/static/img/blog.svg";
 
 const FeatureList = [
   {
-    title: "About Me",
-    image: (
-      <img
-        src={require("@site/static/img/DinganWang.jpg").default}
-        className={styles.featureImg}
-      />
-    ),
-    description: <>Welcome to my Internet home.</>,
-    path: "/about_me",
-  },
-  {
     title: "Docs",
     image: <BookSVG />,
     description: <>Structured notes for specific topics, similar to a book.</>,
@@ -28,6 +17,17 @@ const FeatureList = [
     image: <BlogSVG />,
     description: <>Random topics from daily study, work and life.</>,
     path: "/blog",
+  },
+  {
+    title: "About Me",
+    image: (
+      <img
+        src={require("@site/static/img/DinganWang.jpg").default}
+        className={styles.featureImg}
+      />
+    ),
+    description: <>Welcome to my Internet home.</>,
+    path: "/about_me",
   },
 ];
 
