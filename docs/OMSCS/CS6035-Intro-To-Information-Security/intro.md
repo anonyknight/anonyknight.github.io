@@ -14,7 +14,6 @@ last_update:
 
 ### 6035 course topics
 
-
 * Software Security
 * OS security
 * DB security
