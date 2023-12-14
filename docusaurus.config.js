@@ -110,11 +110,10 @@ const config = {
             label: "Blog",
             position: "left",
           },
-          { to: "/about_me", label: "About Me", position: "right" },
+          { to: "/about_me", label: "About Me" },
           {
             href: "https://github.com/anonyknight",
             label: "GitHub",
-            position: "right",
           },
         ],
       },
