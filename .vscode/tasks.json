@@ -3,17 +3,13 @@
 	"tasks": [
     {
       "label": "Build",
-      "type": "npm",
-      "script": "build",
+      "type": "shell",
       "group": {
         "kind": "build",
         "isDefault": true
       },
-      "problemMatcher": [],
       "detail": "docusaurus build",
-      "runOptions": {
-        "runOn": "default"
-      }
+      "command": "pnpm run build"
     }
   ]
 }

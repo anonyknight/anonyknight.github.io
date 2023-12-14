@@ -1,10 +1,14 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
+import remarkMath from "remark-math";
+import rehypeKatex from "rehype-katex";
 
-const lightCodeTheme = require("prism-react-renderer/themes/github");
-const darkCodeTheme = require("prism-react-renderer/themes/dracula");
+const { themes } = require("prism-react-renderer");
 
-const baseUrl = "/my-website/";
+const lightCodeTheme = themes.github;
+const darkCodeTheme = themes.dracula;
+
+const baseUrl = "/";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -36,7 +40,7 @@ const config = {
 
   presets: [
     [
-      "classic",
+      "@docusaurus/preset-classic",
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
@@ -45,6 +49,8 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: "https://github.com/anonyknight" + baseUrl + "/edit/master/",
           showLastUpdateTime: true,
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         blog: {
           showReadingTime: true, // When set to false, the "x min read" won't be shown
@@ -55,6 +61,8 @@ const config = {
           editUrl:
             "https://github.com/anonyknight/" + baseUrl + "/edit/master/",
           blogSidebarCount: "ALL",
+          remarkPlugins: [remarkMath],
+          rehypePlugins: [rehypeKatex],
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css"),
@@ -139,14 +147,40 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       mermaid: {
-        theme: {light: 'neutral', dark: 'forest'},
+        theme: { light: "neutral", dark: "forest" },
       },
     }),
-    // Enable mermaid in markdown.
-    markdown: {
-        mermaid: true,
+  // Enable mermaid in markdown.
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
+  webpack: {
+    jsLoader: (isServer) => ({
+      loader: require.resolve("swc-loader"),
+      options: {
+        jsc: {
+          parser: {
+            syntax: "typescript",
+            tsx: true,
+          },
+          target: "es2017",
+        },
+        module: {
+          type: isServer ? "commonjs" : "es6",
+        },
       },
-    themes: ['@docusaurus/theme-mermaid'],
+    }),
+  },
+  stylesheets: [
+    {
+      href: "https://cdn.jsdelivr.net/npm/katex@0.13.24/dist/katex.min.css",
+      type: "text/css",
+      integrity:
+        "sha384-odtC+0UGzzFL/6PNoE8rX/SPcQDXBJ+uRepguP4QkPCm2LBxH3FA3y+fKSiJ+AmM",
+      crossorigin: "anonymous",
+    },
+  ],
 };
 
 module.exports = config;
