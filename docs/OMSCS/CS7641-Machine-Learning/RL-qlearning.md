@@ -4,13 +4,13 @@ date: 'August 8, 2021'
 tags: ['OMSCS', 'Algorithms', 'Machine-Learning']
 ---
 
-## Q-Learning intro
+## Introduction
 
 It use utility table for Q-Values.
 
 The best part of Q-Learning: it guarantees to provide a optimal policy.
 
-What's Q? 
+What's Q?
 
 Q means the function that the algorithm computes.
 
@@ -21,19 +21,21 @@ $Q[s,a]=$ immediate rewards + discounted rewards
 
 How to use Q?
 
-$\Pi(s)=argmax_a(Q[s,a])$ 
+$$
+\Pi(s)=argmax_a(Q[s,a])
+$$
 
 The optimal:
 
-$\Pi^*(s)=argmax_a(Q^*[s,a])$ 
+$\Pi^*(s)=argmax_a(Q^*[s,a])$
 
 ### Update Rule
 
 $Q'[s,a]$ =$(1-\alpha)Q[s,a]$ + $\alpha$ * improved estimate
 
-where Improved Estimate 
+where Improved Estimate
 
-= $r$ + $\gamma$ * later rewards 
+= $r$ + $\gamma$ * later rewards
 
 = $r$ + $\gamma$ * $Q[s',argmax_a(Q[s',a'])$
 
@@ -41,8 +43,7 @@ $\alpha$ : Learning rate [0, 1.0]
 
 $\gamma$ : discount rate [0, 1.0]
 
-
-$<!-- $Q_i^1 *\gamma$ -->$
+$$Q_i^1 *\gamma$$
 
 ### State
 
@@ -66,7 +67,7 @@ Convert a real number into integer.
 
 ## Summary
 
-It's a model free algorithm that does not know Transition matrix T 
+It's a model free algorithm that does not know Transition matrix T
 or rewards function.
 
 ### Build a model
@@ -79,9 +80,16 @@ or rewards function.
 Steps:
 
 1. Init Q table
+
 2. observe S
-3. execute a, obverse $S'$, r
-4. Update Q with $<s, a, s', r>$
+
+3. execute a, obverse $$S'$$, r
+
+4. Update Q with
+
+$$
+<s,a,s',r>
+$$
 
 ### Testing a model
 
@@ -114,7 +122,6 @@ $R'[s,a]=(1-\alpha)R[s,a]+\alpha*r$
 r = immediate rewards.
 
 R = expected reward for s,a.
-
 
 ### Dyna-Q Algorithm
 

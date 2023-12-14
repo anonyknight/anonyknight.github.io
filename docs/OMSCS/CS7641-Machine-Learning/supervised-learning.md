@@ -36,7 +36,7 @@ Each question **further narrow down** the scope.
 
 ### Expressiveness
 
-Boolean functions: 
+Boolean functions:
 
 AND
 
@@ -66,7 +66,8 @@ Loop:
 
 ### Information gain
 
-If it's even, there is no way to guess what's the possibility of the result. Information is the maximum. If it's 100% sure, then information is none.
+If it's even, there is no way to guess what's the possibility of the result.
+Information is the maximum. If it's 100% sure, then information is none.
 
 #### Entropy
 
@@ -80,8 +81,6 @@ The goal is maximize entropy gain.
 
 Inductive Bias
 
-
-
 Restriction Bias
 
 Preference Bias
@@ -89,5 +88,4 @@ Preference Bias
 #### Decision Trees other considerations
 
 * Continuous attributes? Age, weight, distance
-* 
-
+*
