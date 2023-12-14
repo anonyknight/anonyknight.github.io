@@ -34,13 +34,13 @@ const FeatureList = [
 function Feature({ image, title, description, path }) {
   return (
     <div className={clsx("col col--4")}>
-      <div className="text--center padding-horiz--md">{image}</div>
-      <div className="text--center padding-horiz--md">
+      <div className="text--center">{image}</div>
+      <div className="text--center">
         <Link
-          className="bg-green-600 text-white text-sm leading-6 font-medium py-2 px-3 rounded-lg"
+          className="rounded-lg"
           to={path}
         >
-          {title}
+          <h1>{title}</h1>
         </Link>
         <p>{description}</p>
       </div>

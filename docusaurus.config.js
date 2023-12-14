@@ -12,8 +12,8 @@ const baseUrl = "/";
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "Anonyknight's Grinding Journey",
-  tagline: "Grinding is the key to the success!",
+  title: "Anonyknight's Life Journey",
+  tagline: "Life is short. Cherish everyday, learning everyday, enjoy everyday!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -87,6 +87,10 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      colorMode: {
+        defaultMode: "light",
+        respectPrefersColorScheme: false,
+      },
       navbar: {
         title: "Anonyknight",
         logo: {
@@ -155,6 +159,7 @@ const config = {
     mermaid: true,
   },
   themes: ["@docusaurus/theme-mermaid"],
+  //   Integrate webpack with SWC to speed up building time.
   webpack: {
     jsLoader: (isServer) => ({
       loader: require.resolve("swc-loader"),
