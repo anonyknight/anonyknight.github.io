@@ -120,30 +120,31 @@ const config = {
       },
       footer: {
         style: "dark",
-        links: [
-          {
-            title: "Docs",
-            items: [
-              {
-                label: "Docs",
-                to: "/docs",
-              },
-              {
-                label: "Blog",
-                to: "/blog",
-              },
-            ],
-          },
-          {
-            title: "Community",
-            items: [
-              {
-                label: "GitHub",
-                href: "https://github.com/anonyknight",
-              },
-            ],
-          },
-        ],
+        // Redundant to the header. Comment out unless we have more info.
+        // links: [
+        //   {
+        //     title: "GoTo",
+        //     items: [
+        //       {
+        //         label: "Docs",
+        //         to: "/docs",
+        //       },
+        //       {
+        //         label: "Blog",
+        //         to: "/blog",
+        //       },
+        //     ],
+        //   },
+        //   {
+        //     title: "Community",
+        //     items: [
+        //       {
+        //         label: "GitHub",
+        //         href: "https://github.com/anonyknight",
+        //       },
+        //     ],
+        //   },
+        // ],
         copyright: `Copyright © ${new Date().getFullYear()} Anonyknight, Dingan(Will) Wang, built with Docusaurus.`,
       },
       prism: {

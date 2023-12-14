@@ -13,12 +13,6 @@ const FeatureList = [
     path: "/docs",
   },
   {
-    title: "Blogs",
-    image: <BlogSVG />,
-    description: <>Random topics from daily study, work and life.</>,
-    path: "/blog",
-  },
-  {
     title: "About Me",
     image: (
       <img
@@ -28,6 +22,12 @@ const FeatureList = [
     ),
     description: <>Welcome to my Internet home.</>,
     path: "/about_me",
+  },
+  {
+    title: "Blogs",
+    image: <BlogSVG />,
+    description: <>Random topics from daily study, work and life.</>,
+    path: "/blog",
   },
 ];
 
