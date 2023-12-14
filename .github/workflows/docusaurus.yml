@@ -33,6 +33,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+      # https://github.com/actions/starter-workflows/blob/main/pages/nextjs.yml
       - name: Detect package manager
         id: detect-package-manager
         run: |
@@ -54,6 +55,7 @@ jobs:
           node-version: 18
           # cache: ${{ steps.detect-package-manager.outputs.manager }}
 
+      # https://github.com/pnpm/action-setup
       - uses: pnpm/action-setup@v2
         name: Install pnpm
         with:
