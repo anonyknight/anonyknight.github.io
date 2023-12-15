@@ -1,9 +1,11 @@
 ---
-title: Introduction
-summary: Introduction to document
 last_update:
     date: 'April 17, 2023'
+sidebar_position: 1
+sidebar_label: Introduction
 ---
+
+# Introduction
 
 Welcome to my home on the internet!!!
 
