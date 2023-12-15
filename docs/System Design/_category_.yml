@@ -1,0 +1,9 @@
+position: 2000 # float position is supported
+collapsible: true # make the category collapsible
+collapsed: false # keep the category open by default
+className: red
+link:
+  type: generated-index
+  title: System Design
+customProps:
+  description: This description can be used in the swizzled DocCard
