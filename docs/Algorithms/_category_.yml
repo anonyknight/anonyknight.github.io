@@ -1,7 +1,7 @@
-position: 10 # float position is supported
+position: 3 # float position is supported
 collapsible: true # make the category collapsible
 collapsed: false # keep the category open by default
-className: red
+className: green
 link:
   type: generated-index
   title: Algorithms
