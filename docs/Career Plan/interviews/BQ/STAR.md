@@ -3,7 +3,7 @@ title: STAR/CAR Method
 last_update:
   date: 'July 12, 2021'
 tags: ['Interview']
-authors: [dingan]
+authors: [Dingan]
 ---
 
 The STAR format stands for ***Situation*,*Task*,*Action*,*Result***:

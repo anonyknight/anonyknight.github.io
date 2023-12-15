@@ -4,7 +4,7 @@ date: '2022-06-10'
 tags: ['book']
 draft: false
 summary:  改变思想观念，世界认识的书
-authors: [dingan]
+authors: [Dingan]
 ---
 
 ## 俞敏洪 推荐 二十几岁改变思想的书

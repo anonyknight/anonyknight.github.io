@@ -4,7 +4,7 @@ date: '2021-09-15'
 tags: ['reading']
 draft: false
 summary:  Reading Notes
-authors: [dingan]
+authors: [Dingan]
 ---
 
 ## Books recommendation
