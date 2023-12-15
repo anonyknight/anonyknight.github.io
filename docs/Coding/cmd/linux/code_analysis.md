@@ -1,12 +1,14 @@
 ---
 title: Analyze the code
-date: 'July 17, 2021'
+last_update:
+  date: 'July 17, 2021'
 tags: ['study', 'linux']
 ---
 
 ## cloc
 
 Sample output
+
 ```
 cloc .
       74 text files.
@@ -24,4 +26,3 @@ Markdown                         1              8              0             14
 SUM:                            66           2138           2168           4329
 -------------------------------------------------------------------------------
 ```
-

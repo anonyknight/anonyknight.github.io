@@ -1,6 +1,7 @@
 ---
 title: Bash
-date: 'July 29, 2021'
+last_update:
+  date: 'July 29, 2021'
 tags: ['study', 'linux']
 ---
 

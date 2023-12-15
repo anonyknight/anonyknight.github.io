@@ -1,6 +1,7 @@
 ---
 title: Built-in Exceptions
-date: 'August 4, 2021'
+last_update:
+  date: 'August 4, 2021'
 tags: ['python']
 summary: 'https://docs.python.org/3/library/functions.html'
 ---
@@ -28,4 +29,3 @@ summary: 'https://docs.python.org/3/library/functions.html'
 | [`bool()`](https://docs.python.org/3/library/functions.html#bool) | [`id()`](https://docs.python.org/3/library/functions.html#id) | [`ascii()`](https://docs.python.org/3/library/functions.html#ascii) |  |  |
 | [`any()`](https://docs.python.org/3/library/functions.html#any) | [`locals()`](https://docs.python.org/3/library/functions.html#locals) | [`ord()`](https://docs.python.org/3/library/functions.html#ord) |  |  |
 | [`all()`](https://docs.python.org/3/library/functions.html#all) | [`__import__()`](https://docs.python.org/3/library/functions.html#__import__) | [`int()`](https://docs.python.org/3/library/functions.html#int) |  |  |
-

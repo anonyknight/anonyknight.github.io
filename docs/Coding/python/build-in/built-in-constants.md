@@ -1,6 +1,7 @@
 ---
 title: Python Built-in Constants
-date: 'August 4, 2021'
+last_update:
+  date: 'August 4, 2021'
 tags: ['Python']
 ---
 
@@ -18,7 +19,7 @@ Ellipsis
 
 \*\*\*\*
 
-### [`site`](https://docs.python.org/3/library/site.html#module-site) 
+### [`site`](https://docs.python.org/3/library/site.html#module-site)
 
 ```text
 quit(code=None)
@@ -28,5 +29,4 @@ credits
 license
 ```
 
-### 
-
+###

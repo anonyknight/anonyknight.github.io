@@ -1,6 +1,7 @@
 ---
 title: STAR/CAR Method
-date: 'July 12, 2021'
+last_update:
+  date: 'July 12, 2021'
 tags: ['Interview']
 authors: [dingan]
 ---

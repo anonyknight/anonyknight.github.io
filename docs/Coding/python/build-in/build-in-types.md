@@ -1,6 +1,7 @@
 ---
 title: Python Build-in
-date: 'August 4, 2021'
+last_update:
+  date: 'August 4, 2021'
 tags: ['python', 'programming']
 summary: 'https://docs.python.org/3/library/stdtypes.html'
 ---
@@ -106,6 +107,3 @@ contextmanager.__exit__(exc_type, exc_val, exc_tb)
 * [Internal Objects](https://docs.python.org/3/library/stdtypes.html#internal-objects)
 
 [Special Attributes](https://docs.python.org/3/library/stdtypes.html#special-attributes)
-
-
-

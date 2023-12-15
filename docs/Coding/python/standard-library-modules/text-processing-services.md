@@ -1,6 +1,7 @@
 ---
 title: Text Processing Services
-date: 'August 4, 2021'
+last_update:
+  date: 'August 4, 2021'
 tags: ['python']
 summary: 'https://docs.python.org/3/library/text.html'
 ---
@@ -15,4 +16,3 @@ summary: 'https://docs.python.org/3/library/text.html'
 * [`stringprep` — Internet String Preparation](https://docs.python.org/3/library/stringprep.html)
 * [`readline` — GNU readline interface](https://docs.python.org/3/library/readline.html)
 * [`rlcompleter` — Completion function for GNU readline](https://docs.python.org/3/library/rlcompleter.html)
-

@@ -1,6 +1,7 @@
 ---
 title: Built-in Exceptions
-date: 'August 4, 2021'
+last_update:
+  date: 'August 4, 2021'
 tags: ['python']
 summary: 'https://docs.python.org/3/library/exceptions.html'
 ---
@@ -75,9 +76,7 @@ BaseException
            +-- ResourceWarning
 ```
 
-
-
-[Warning Categories](https://docs.python.org/3/library/warnings.html#warning-categories) 
+[Warning Categories](https://docs.python.org/3/library/warnings.html#warning-categories)
 
 | Class | Description |
 | :--- | :--- |
@@ -92,6 +91,3 @@ BaseException
 | [`UnicodeWarning`](https://docs.python.org/3/library/exceptions.html#UnicodeWarning) | Base category for warnings related to Unicode. |
 | [`BytesWarning`](https://docs.python.org/3/library/exceptions.html#BytesWarning) | Base category for warnings related to [`bytes`](https://docs.python.org/3/library/stdtypes.html#bytes) and [`bytearray`](https://docs.python.org/3/library/stdtypes.html#bytearray). |
 | [`ResourceWarning`](https://docs.python.org/3/library/exceptions.html#ResourceWarning) | Base category for warnings related to resource usage. |
-
-
-
