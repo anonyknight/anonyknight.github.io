@@ -4,4 +4,3 @@ collapsed: true # keep the category open by default
 className: red
 link:
   type: generated-index
-  title: Algorithms
