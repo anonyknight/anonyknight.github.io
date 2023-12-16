@@ -13,7 +13,8 @@ const baseUrl = "/";
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: "Anonyknight's Life Journey",
-  tagline: "Life is short. Cherish everyday, learning everyday, enjoy everyday!",
+  tagline:
+    "Life is short. Cherish everyday, learning everyday, enjoy everyday!",
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
@@ -114,7 +115,7 @@ const config = {
           },
           {
             to: "/blog",
-            label: "Blog",
+            label: "Blogs",
             position: "left",
           },
           { to: "/about_me", label: "About Me" },
@@ -151,7 +152,7 @@ const config = {
         //     ],
         //   },
         // ],
-        copyright: `Copyright © ${new Date().getFullYear()} Anonyknight, Dingan(Will) Wang, built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Anonyknight, Dingan(Will) Wang, built with <a href="https://docusaurus.io/">Docusaurus</a>`,
       },
       prism: {
         theme: lightCodeTheme,

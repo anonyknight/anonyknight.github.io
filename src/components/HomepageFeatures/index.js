@@ -7,21 +7,16 @@ import BlogSVG from "@site/static/img/blog.svg";
 
 const FeatureList = [
   {
-    title: "Docs",
+    title: "Techs",
     image: <BookSVG />,
-    description: <>Structured notes for specific topics, similar to a book.</>,
-    path: "/docs",
+    description: <>Structured notes for software engineering career.</>,
+    path: "/docs/techs",
   },
   {
-    title: "About Me",
-    image: (
-      <img
-        src={require("@site/static/img/DinganWang.jpg").default}
-        className={styles.featureImg}
-      />
-    ),
-    description: <>Welcome to my Internet home.</>,
-    path: "/about_me",
+    title: "Readings",
+    image: <BookSVG />,
+    description: <>Structured notes for life-long learning.</>,
+    path: "/docs/readings",
   },
   {
     title: "Blogs",
@@ -29,6 +24,17 @@ const FeatureList = [
     description: <>Random topics from daily study, work and life.</>,
     path: "/blog",
   },
+//   {
+//     title: "About Me",
+//     image: (
+//       <img
+//         src={require("@site/static/img/DinganWang.jpg").default}
+//         className={styles.featureImg}
+//       />
+//     ),
+//     description: <>Welcome to my Internet home.</>,
+//     path: "/about_me",
+//   },
 ];
 
 function Feature({ image, title, description, path }) {
