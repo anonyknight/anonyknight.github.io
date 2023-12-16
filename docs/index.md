@@ -17,7 +17,7 @@ The software engineer journey is a pursuit of
 
 Happy coding! Happy life!
 
-Here are my skill sets:
+## My skill sets
 
 ```mermaid
 mindmap
