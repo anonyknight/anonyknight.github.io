@@ -7,7 +7,7 @@ tags: ['System-Design']
 
 ## Production Components
 
-![Production System](https://github.com/donnemartin/system-design-primer/blob/master/images/jj3A5N8.png)
+![Production System](https://github.com/donnemartin/system-design-primer/blob/master/images/jj3A5N8.png?raw=true)
 
 | Component                  | 1                                                            | 2                                                            | 3                     |
 | -------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------- |

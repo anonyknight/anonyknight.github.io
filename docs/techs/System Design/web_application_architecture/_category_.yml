@@ -1,9 +1,9 @@
-position: 1000 # float position is supported
+position: 20100 # float position is supported
 collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 className: red
 link:
   type: generated-index
-  title: Object Oriented Programming
+  title: Web App Architecture
 customProps:
   description: This description can be used in the swizzled DocCard

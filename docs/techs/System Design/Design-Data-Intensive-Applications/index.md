@@ -1,9 +1,11 @@
 ---
-title: DDIP
-summary: Design Data Intensive Appliation
+summary: Design Data Intensive Application
 date: 'January 16, 2022'
 tags: ['System-Design']
 ---
+
+# DDIP
+Design Data Intensive Application
 
 ## Why data-intensive?
 
@@ -11,9 +13,7 @@ tags: ['System-Design']
 
 **Compute-intensive** if CPU cycles are the bottleneck.
 
-**Only architecture of data systems,** no deployment, operations, security, management. 
-
-
+**Only architecture of data systems,** no deployment, operations, security, management.
 
 ## Outlines, parts and chapters
 
@@ -24,13 +24,13 @@ tags: ['System-Design']
 * 3 **storage engine**: how database arrange data on disk?
 * 4 **data encoding**  and schemas
 
-### Part 2 Data distributed across multiple machines.
+### Part 2 Data distributed across multiple machines
 
 * 5 replication / Availability
 * 6 partitioning/sharding
 * 7 transactions
 * 8 problems in distributed systems
-* 9 consistency and consensus. 
+* 9 consistency and consensus.
 
 ### Part 3 Derive datasets from other datasets
 
@@ -39,4 +39,3 @@ Applications need to integrate several different databases, caches, indexes.
 * 10 batch processing approach
 * 11 stream processing
 * 12 Put everything together, approaches for building reliable, scalable and maintainable application in the future.
-
