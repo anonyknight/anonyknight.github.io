@@ -1,6 +1,4 @@
 ---
-last_update:
-    date: 'April 17, 2023'
 sidebar_position: 1
 sidebar_label: Introduction
 ---
@@ -18,3 +16,45 @@ The software engineer journey is a pursuit of
 [craftsmanship](https://manifesto.softwarecraftsmanship.org/) spirit.
 
 Happy coding! Happy life!
+
+Here are my skill sets:
+
+```mermaid
+mindmap
+  root((skills))
+    Programming
+      C
+      Java
+      Golang
+      Python
+      JavaScript
+      Groovy
+      Kotlin
+      Bash
+    DevOps
+      Docker
+      Kubernetes
+      Jenkins
+      Github
+      Teamcity
+      Gerrit
+    Cloud
+      GCP
+      AWS
+      Azure
+    Libraries
+      Pytest
+      Pytorch
+      gRPC
+      Numpy
+      Pandas
+      Scikit-learn
+      Pytorch
+    Tool
+      VSCode
+      Git
+      Oh My Zsh
+      VIM
+      Gradle
+      C4-UML
+```

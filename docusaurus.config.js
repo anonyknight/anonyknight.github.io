@@ -151,7 +151,8 @@ const config = {
         darkTheme: darkCodeTheme,
       },
       mermaid: {
-        theme: { light: "neutral", dark: "forest" },
+        // https://mermaid.js.org/config/theming.html
+        theme: { light: "default", dark: "forest" },
       },
     }),
   // Enable mermaid in markdown.
