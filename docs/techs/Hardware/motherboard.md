@@ -4,12 +4,13 @@ date: 'September 8, 2021'
 tags: ['Hardware']
 ---
 
-## Slots for other components.
+## Slots for other components
 
 ## CPU slot
 
 ## PCIe
-![PCIe Speed](https://www.extremetech.com/wp-content/uploads/2019/05/PCIe-50-Chart.png)
+
+[PCIe 5.0: Everything you need to know](https://www.simms.co.uk/tech-talk/pcie-50-everything-you-need-to-know/)
 
 [The PCIe 5.0 Specification is Now Available, Before PCIe 4.0 Has Even Shipped](https://www.extremetech.com/computing/292251-the-pcie-5-0-specification-is-now-available-before-pcie-4-0-has-even-shipped)
 
@@ -27,9 +28,7 @@ tags: ['Hardware']
 | USB4 Gen 2×2  | 10 Gbps             |        2        |       20 Gbps       |
 | USB4 Gen 3×2  | 20 Gbps             |        2        |       40 Gbps       |
 
-[USB: Port Types and Speeds Compared]: https://www.tripplite.com/products/usb-connectivity-types-standards
-
-Thunderbolt & USB-C 
+Thunderbolt & USB-C
 
 ## SSD
 
@@ -57,5 +56,4 @@ The host interfaces per speed.
 
 More info:
 
-https://glenwing.github.io/adapters/?output=HDMI
-
+[HDMI Capabilities](https://glenwing.github.io/adapters/?output=HDMI)

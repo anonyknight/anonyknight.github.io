@@ -16,4 +16,3 @@ tags: ['Hardware']
 - Hard Drive
 
 We should know our requirements before picking up the Motherboard.
-
