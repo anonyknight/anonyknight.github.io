@@ -8,9 +8,7 @@ authors: [Dingan]
 
 ## Gatech [OMSCS](https://omscs.gatech.edu/)
 
-I joined Gatech OMSCS program in 2021 Spring. Here are my study and notes of the program.
-
-Here are more [class notes](/docs/category/omscs).
+I joined the Gatech OMSCS program in 2021 Spring. Here are my study and notes of the program: [notes](/docs/category/omscs).
 
 ## Why OMSCS?
 
@@ -20,7 +18,7 @@ Students may have different reasons to join this program.
 * Explore more opportunities in different concentrations.
 * Switch majors from other fields into computer sciences.
 
-I was for the first and second reasons.
+I was for the first and second reasons to expand my Computer System skills and expand machine learning knowledge.
 
 ## Computer Systems AOS
 
