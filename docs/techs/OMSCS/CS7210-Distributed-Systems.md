@@ -9,17 +9,13 @@ last_update:
 
 ## Projects
 
-- **Project 1** – Environment Setup – 5% – 2 weeks < 10h 
+- **Project 1** – Environment Setup – 5% – 2 weeks < 10h
 - **Project 2** – Client/Server – 10% – 2 weeks 10h
 - **Project 3** – Primary/Backup – 15% – 3 weeks
-- **Project 4** – PAXOS – 15% – 3 weeks 20-25h/week. Raft over Paxos 
+- **Project 4** – PAXOS – 15% – 3 weeks 20-25h/week. Raft over Paxos
 - **Project 5** – Sharded KV Store – 15% – 4 weeks 30-35/week
 
-
-
 [DSLabs - Distributed Systems Labs and Framework](https://github.com/emichael/dslabs)
-
-
 
 ## References
 

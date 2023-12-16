@@ -1,9 +1,10 @@
 ---
-title: CS-6035 Intro to Information Security
 tags: ['OMSCS', 'CS6035-IIS']
 last_update:
   date: 'August 19, 2023'
 ---
+
+# CS-6035 Intro to Information Security
 
 [Home page](https://github.gatech.edu/pages/cs6035-tools/cs6035-tools.github.io/)
 
@@ -23,7 +24,7 @@ last_update:
 
 ## Potential Extra Credit
 
-### NOTE: THERE IS NO GUARANTEE EXTRA CREDIT. AN ANNOUNCEMENT WILL BE MADE WHEN AND IF EXTRA CREDIT IS AVAILABLE.
+### NOTE: THERE IS NO GUARANTEE EXTRA CREDIT. AN ANNOUNCEMENT WILL BE MADE WHEN AND IF EXTRA CREDIT IS AVAILABLE
 
 |   Project Name   |                                               Project Prerequisites:                                                |
 | :--------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -72,6 +73,6 @@ Amala
 
 ## Reference
 
-- [Open Source Course Textbook](https://docs.google.com/document/d/1_kehNQg6mgUUbX2zPZnpddUORjmkz-QnIhOYhlzmdF0/edit#)
-- [Computer Security: Principles and Practice, 4th Edition](https://amzn.to/3R2Emcc)
-- [Applied Information Security: A Hands-on Approach](https://amzn.to/3AU8Rfz)
+* [Open Source Course Textbook](https://docs.google.com/document/d/1_kehNQg6mgUUbX2zPZnpddUORjmkz-QnIhOYhlzmdF0/edit#)
+* [Computer Security: Principles and Practice, 4th Edition](https://amzn.to/3R2Emcc)
+* [Applied Information Security: A Hands-on Approach](https://amzn.to/3AU8Rfz)

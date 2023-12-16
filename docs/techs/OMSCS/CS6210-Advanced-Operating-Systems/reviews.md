@@ -1,19 +1,21 @@
 ---
-title: CS6210-AOS
 date: 'November 13, 2023'
 tags: ['OMSCS']
 ---
 
+# Reviews
+
 The format: 4 projects, 3 exams, 2 paper summaries
 
- difficulty: Pr1 > Pr2 >> Pr4 > Pr3 
+ difficulty: Pr1 > Pr2 >> Pr4 > Pr3
 
 ## Project
 
 0. pthread based warmup exercise (C, involves finding 5 bugs)
    Time spent: 10h
 
-1. Virtual Machine Scheduling in **KVM**(C, **libvirtAPI**) virtualization, memory allocation, and scheduling project
+1. Virtual Machine Scheduling in **KVM**(C, **libvirtAPI**) virtualization,
+memory allocation, and scheduling project
 
    vCPU scheduler and memory controller (C, uses libvirt API)
    Time spent: 15h
