@@ -103,7 +103,14 @@ const config = {
             type: "docSidebar",
             sidebarId: "docsSidebarID",
             position: "left",
-            label: "Docs",
+            label: "Techs",
+          },
+          {
+            to: "/readings",
+            type: "docSidebar",
+            sidebarId: "readingsSidebarID",
+            position: "left",
+            label: "Readings",
           },
           {
             to: "/blog",

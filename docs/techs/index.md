@@ -5,7 +5,7 @@ sidebar_label: Introduction
 
 # Introduction
 
-Welcome to my home on the internet!!!
+Welcome to my home on the internet!!! Here are my notes about Techs/Computer Sciences.
 
 I've marked down my grinding journey as a software developer,
 inspired by the idea of [The Ph.D. Grind: A Ph.D. Student Memoir](https://www.goodreads.com/en/book/show/15731248-the-ph-d-grind)
