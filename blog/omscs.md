@@ -10,7 +10,7 @@ authors: [Dingan]
 
 I joined Gatech OMSCS program in 2021 Spring. Here are my study and notes of the program.
 
-Here are more [class notes](../docs/category/omscs).
+Here are more [class notes](/docs/category/omscs).
 
 ## Why OMSCS?
 
