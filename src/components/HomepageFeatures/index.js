@@ -5,6 +5,7 @@ import Heading from "@theme/Heading";
 import BookSVG from "@site/static/img/book.svg";
 import BlogSVG from "@site/static/img/blog.svg";
 
+import PropTypes from "prop-types";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import styles from "./styles.module.css";
 
@@ -54,13 +55,20 @@ function Feature({ image, title, description, path }) {
   );
 }
 
+Feature.propTypes = {
+  image: PropTypes.element.isRequired,
+  title: PropTypes.string.isRequired,
+  description: PropTypes.string.isRequired,
+  path: PropTypes.string.isRequired,
+};
+
 export function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props, idx) => (
-            <Feature key={idx} {...props} />
+          {FeatureList.map((props) => (
+            <Feature key={props.id} {...props} />
           ))}
         </div>
       </div>
