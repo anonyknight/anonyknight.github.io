@@ -1,8 +1,11 @@
+/* eslint-disable import/no-import-module-exports */
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
 
+const tailwindCSS = require("tailwindcss");
+const autoprefixerModule = require("autoprefixer");
 const { themes } = require("prism-react-renderer");
 
 const lightCodeTheme = themes.github;
@@ -55,7 +58,7 @@ const config = {
         },
         blog: {
           showReadingTime: true, // When set to false, the "x min read" won't be shown
-          readingTime: ({ content, frontMatter, defaultReadingTime }) =>
+          readingTime: ({ content, defaultReadingTime }) =>
             defaultReadingTime({ content, options: { wordsPerMinute: 220 } }),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -72,13 +75,13 @@ const config = {
   ],
   plugins: [
     require.resolve("@cmfcmf/docusaurus-search-local"),
-    async function myPlugin(context, options) {
+    async function myPlugin() {
       return {
         name: "docusaurus-tailwindcss",
         configurePostCss(postcssOptions) {
           // Appends TailwindCSS and AutoPrefixer.
-          postcssOptions.plugins.push(require("tailwindcss"));
-          postcssOptions.plugins.push(require("autoprefixer"));
+          postcssOptions.plugins.push(tailwindCSS);
+          postcssOptions.plugins.push(autoprefixerModule);
           return postcssOptions;
         },
       };

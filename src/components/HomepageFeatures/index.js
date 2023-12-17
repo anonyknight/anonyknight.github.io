@@ -1,6 +1,7 @@
 import React from "react";
 import clsx from "clsx";
 import Link from "@docusaurus/Link";
+import Heading from "@theme/Heading";
 import BookSVG from "@site/static/img/book.svg";
 import BlogSVG from "@site/static/img/blog.svg";
 
@@ -45,7 +46,7 @@ function Feature({ image, title, description, path }) {
       <div className="text--center">{image}</div>
       <div className="text--center">
         <Link className="rounded-lg" to={path}>
-          <h1>{title}</h1>
+          <Heading as="h1">{title}</Heading>
         </Link>
         <p>{description}</p>
       </div>
@@ -72,7 +73,9 @@ export function HomepageHeader() {
   return (
     <header className={clsx("hero", styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
+        <Heading as="h1" className="hero__title">
+          {siteConfig.title}
+        </Heading>
         <p className="hero__subtitle">{siteConfig.tagline}</p>
         <div className={styles.buttons} />
       </div>
