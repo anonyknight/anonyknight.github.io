@@ -1,0 +1,10 @@
+# Always ignore node_modules.
+**/node_modules/**/*.*
+
+# lint eslint config files which are excluded by default
+!**/.eslintrc.js
+
+# We ignore all these directories by default, until we get them enabled.
+# If you are enabling a directory, please add directory specific exclusions
+# below.
+build/**
