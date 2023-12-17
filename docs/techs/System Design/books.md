@@ -4,7 +4,7 @@ date: 'December 30, 2022'
 tags: ['System Design', 'book']
 ---
 
-It takes time and effort to learn software architecture and system design. I've learned a lot from the following resources: 
+It takes time and effort to learn software architecture and system design. I've learned a lot from the following resources:
 
 \1. 𝗗𝗮𝘁𝗮 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴: Designing Data-Intensive Applications, Martin Kleppmann - https://lnkd.in/gGk6Kric
 

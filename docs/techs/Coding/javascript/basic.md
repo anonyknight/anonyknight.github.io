@@ -11,14 +11,15 @@ Interpretation.
 JIT(Just In Time Compilation) - Chrome V8 Engine.
 
 ![How JavaScript code is compiled](./How-Javascript-code-is-compiled.png)
+
 ## Variables
+
 ```javascript
 var var1 = 10; // local variable 
 var2 = 10; //global var2
 let var3 = 10; // block statements scope
 const number=42; // block statements scope, can't be changed.
 ```
-
 
 ## Loops
 
@@ -39,6 +40,7 @@ for(var i in obj){
 ```
 
 ## Functions
+
 ```javascript
 function sumFunc(a, b) {
     return a+b;
@@ -91,6 +93,7 @@ foo(() => console.log("Hello")); // invoke foo and pass printHello as argument
 ```
 
 ### Array methods
+
 ```javascript
 // forEach
 var arr = [10, 20, 30, 40, 50]; // initialise an array and assign to arr
@@ -113,6 +116,7 @@ var val = arr.find(a => a > 20); // find an element greater than 20
 ```
 
 ### Map and Reduce methods
+
 ```javascript
 // map function to modify each elements
 var arr = [10, 20, 30, 40, 50]; // initialise an array and assign to arr
@@ -140,7 +144,9 @@ console.log("number of Strings:",sum); // print number of strings
 ```
 
 ## Scope
+
 Scopes restrict **access** and **visibility** of variables across a program.
+
 * It limits the visibility and accessibility of a variable.
 * It controls the life of the variable and the assigned resources.
 * It helps secure resources and makes debugging easier.
@@ -148,10 +154,11 @@ Scopes restrict **access** and **visibility** of variables across a program.
 ### global scope
 
 ### local scope
+
 * function scope
 * block scope
   
-### Lexical scope 
+### Lexical scope
 
 It is the ability for a function scope to access variables from the parent scope.
 JavaScript uses a scope chain to find variables accessible in a certain scope. When a variable is referred to, JavaScript looks in the current scope and continues to parent scopes, until it reaches the global scope. This chain of traversed scopes is called the scope chain.

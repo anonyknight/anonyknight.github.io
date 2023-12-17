@@ -6,7 +6,7 @@ tags: ['Algorithms']
 ---
 # Greedy vs DP
 
-## Greedy Keys:
+## Greedy Keys
 
 - Have a optimal solutio in every step. It's not necessary the optimal solution though.
 - Each step

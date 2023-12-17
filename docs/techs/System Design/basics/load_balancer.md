@@ -19,13 +19,13 @@ PATA
 
 RAM:
 
-### Horizontal scalling:
+### Horizontal scalling
 
 <b>Cheaper hardware </b>
 Distributed backend server.
 Load balancer
 
-#### DNS return IP of load balancer.
+#### DNS return IP of load balancer
 
 BIND:
 heuristic:
@@ -69,11 +69,11 @@ F5
 
 Layer 7 load balancing
 
-## Shared Storage:
+## Shared Storage
 
 FC, ISCSI, MySQL, NFS.
 
-## Cookies in Load balancer.
+## Cookies in Load balancer
 
 Storing the ID of the server in cookies
 Store big random number in the load balancer.

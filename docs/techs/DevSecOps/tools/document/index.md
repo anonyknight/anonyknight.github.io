@@ -9,7 +9,6 @@ tags: ['Mathmatics', 'Docs']
 
 Technical documentation is the first impression for customer/users.
 
-
 ## Docs tool
 
 [MkDocs](https://www.mkdocs.org/)

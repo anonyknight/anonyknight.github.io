@@ -11,7 +11,6 @@ How to find cross reference?
 How to find issues earlier?
 How to use debugger?
 
-
 ## Scanner build
 
 Scan for mistakes, security issues and Vulnerabilities.
@@ -32,7 +31,7 @@ Performs analysis on the applications and reports the vulnerabilities
 
 ## Sensitive Information Scan
 
-The Sensitive Information Scan (SAS) phase scans the code for sensitive information (e.g. hardcoded password, tokens, secret keys, etc) before pushing the code into code repositories. 
+The Sensitive Information Scan (SAS) phase scans the code for sensitive information (e.g. hardcoded password, tokens, secret keys, etc) before pushing the code into code repositories.
 
 - [Trufflehog: Locating Sensitive Information](https://github.com/trufflesecurity/truffleHog)
 - [GitSecrets: Finding Hardcoded Credentials](https://github.com/awslabs/git-secrets)
@@ -41,18 +40,18 @@ The Sensitive Information Scan (SAS) phase scans the code for sensitive informat
 [Using Trufflehog and GitSecrets](https://sweetcode.io/how-use-truffle-hog-git-secrets/)
 
 ## Static Application Security Testing
+>
 > The Static Application Security Testing (SAST) is done to identify the possible vulnerabilities or security issues in non-running source code by using techniques likeTaint Analysis and Data Flow Analysis.
 
 [What is Static Code Analysis?](https://owasp.org/www-community/controls/Static_Code_Analysis)
 
 [What is Taint Analysis?](https://dzone.com/articles/what-is-taint-analysis-and-why-should-i-care)  
 
-[What is Data Flow testing?](https://www.testbytes.net/blog/data-flow-testing)   
+[What is Data Flow testing?](https://www.testbytes.net/blog/data-flow-testing)
 
 [More Static Code Analysis techniques](https://www.geeksforgeeks.org/types-of-static-analysis-methods/)  
 
-
-### Why is it important in DevSecOps? 
+### Why is it important in DevSecOps?
 
 > The Static Application Security Testing phase can be used to identify security issues. For example, taint analysis can identify the variables that can handle the user input and check if vulnerability like buffer overflow can occur.  
 

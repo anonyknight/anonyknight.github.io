@@ -8,6 +8,7 @@ tags: ['JS', 'linux']
 ## Function composition
 
 ### Curry functions
+
 ```javascript
 var add = function (a){
     return function(b){
@@ -25,9 +26,11 @@ console.log(final_output);
 ```
 
 ### compose function
+
 Spread syntax (...)
 
 using reduceRight
+
 ```javascript
 // function composition of any number of functions
 const compose = (...fns) => x => fns.reduceRight((y, f) => f(y), x); 
@@ -40,6 +43,7 @@ console.log(output_final);
 ```
 
 Using pipe function
+
 ```javascript
 // function composition using pipe of any number of functions
 const pipe = (...fns) => x => fns.reduce((y, f) => f(y), x); 
@@ -52,6 +56,7 @@ console.log(output_final);
 ```
 
 ### Libraries
+
 - **[Ramda](https://ramdajs.com/):** [compose](https://ramdajs.com/docs/#compose) and [pipe](https://ramdajs.com/docs/#pipe)
 - **[Lodash](https://lodash.com/):** [flowRight](https://lodash.com/docs/4.17.15#flowRight) (compose) and [flow](https://lodash.com/docs/4.17.15#flow) (pipe)
 

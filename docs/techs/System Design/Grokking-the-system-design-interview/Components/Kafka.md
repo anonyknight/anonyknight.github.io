@@ -15,7 +15,7 @@ they receive data from producers, reliably store them and provide them into cons
 
 **Records**
 
-A message or an event stored in Kafka. 
+A message or an event stored in Kafka.
 
 ![Kafka message](../img/kafka.png)
 

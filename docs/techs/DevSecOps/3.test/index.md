@@ -12,10 +12,9 @@ tags: ['DevSecOps', 'Automation', 'Test']
 
 ## Testing Techniques
 
-* Parametrized testing - Data Driven Testing
+- Parametrized testing - Data Driven Testing
 
-* Behavior Driven testing.
-
+- Behavior Driven testing.
 
 ## Python
 
@@ -33,7 +32,8 @@ tags: ['DevSecOps', 'Automation', 'Test']
 
 [JUnit 5 vs TestNG](https://stackoverflow.com/questions/38273479/junit-5-vs-testng)
 
-## Dynamic Application Security Analysis (DAST) 
+## Dynamic Application Security Analysis (DAST)
+>
 > The Dynamic Application Security Analysis (DAST) is performed to identify the possible run-time vulnerabilities or security issues. Unlike static analysis, dynamic analysis is performed on a running project.
 
 ### Tools Covered
@@ -45,9 +45,7 @@ tags: ['DevSecOps', 'Automation', 'Test']
 - [Radamsa: Automated Fuzzing](https://gitlab.com/akihe/radamsa)
 - [FuzzDB: Fault Injection Testing](https://github.com/fuzzdb-project/fuzzdb)
 
-
 ## Performance test
 
-* [Loadrunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
-* [jmeter](https://jmeter.apache.org/)
-
+- [Loadrunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
+- [jmeter](https://jmeter.apache.org/)

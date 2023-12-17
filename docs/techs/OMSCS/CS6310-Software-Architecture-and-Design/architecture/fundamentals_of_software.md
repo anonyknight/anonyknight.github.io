@@ -9,7 +9,7 @@ tags: ['OMSCS']
 
 An **anti-pattern**:
 
-*  [Andrew Koenig](https://oreil.ly/p9i_Y) defines it as something that seems like a good idea when you begin, but leads you into trouble.
+* [Andrew Koenig](https://oreil.ly/p9i_Y) defines it as something that seems like a good idea when you begin, but leads you into trouble.
 * a repeatable process that produces negative results
 
 ### *Covering Your Assets* anti-pattern
@@ -38,7 +38,7 @@ Important to provide both **technical and business justifications** for the deci
 
 ### *Email-Driven Architecture* anti-pattern
 
-It occurs where people lose, forget, or don’t even know an architecture decision has been made and therefore cannot possibly implement that architecture decision. 
+It occurs where people lose, forget, or don’t even know an architecture decision has been made and therefore cannot possibly implement that architecture decision.
 
 #### How to overcome?
 
@@ -55,7 +55,6 @@ It occurs where people lose, forget, or don’t even know an architecture decisi
 * ***Interfaces*** refer to how services and components are accessed and orchestrated, usually through a gateway, integration hub, service bus, or API proxy.
 * ***construction techniques*** refer to decisions about platforms, frameworks, tools, and even processes that, although technical in nature, might impact some aspect of the architecture.
 
-## References:
+## References
 
 Fundamentals of Software Architecture (Ford & Richards, O'Reilly 2020).
-

@@ -26,12 +26,12 @@ for development workflows.
 
 ## Why k8s?
 
-* **Service discovery and load balancing**
-* **Storage orchestration**
-* **Automated rollouts and rollbacks**
-* **Automatic bin packing**
-* **Self-healing**
-* **Secret and configuration management**
+- **Service discovery and load balancing**
+- **Storage orchestration**
+- **Automated rollouts and rollbacks**
+- **Automatic bin packing**
+- **Self-healing**
+- **Secret and configuration management**
 
 ## [k8s components](https://kubernetes.io/docs/concepts/overview/components/)
 
@@ -66,7 +66,7 @@ for development workflows.
 ## The Kubernetes API
 
 [Open API](https://www.openapis.org/)
-API object needs to handle buffer, xml or json? 
+API object needs to handle buffer, xml or json?
 
 Google developed [protobuf](https://github.com/protocolbuffers/protobuf) before.
 
@@ -131,7 +131,7 @@ kubectl get pods --field-selector status.phase=Running
 
 ### Nodes
 
-Components: [kubelet](https://kubernetes.io/docs/reference/generated/kubelet), 
+Components: [kubelet](https://kubernetes.io/docs/reference/generated/kubelet),
 
 a [container runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes), and the [kube-proxy](https://kubernetes.io/docs/reference/command-line-tools-reference/kube-proxy/)
 

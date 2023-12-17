@@ -5,6 +5,7 @@ last_update:
 tags: ['Algorithms']
 ---
 # Sorting algorithm
+
 ## Comparison sort
 
 Merge sort

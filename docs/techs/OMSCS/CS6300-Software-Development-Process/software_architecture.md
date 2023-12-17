@@ -6,7 +6,7 @@ tags: ['OMSCS']
 
 # Software Architecture(SWA)
 
-## Interview of Nenad Medvidovic.
+## Interview of Nenad Medvidovic
 
 Software Architecture: Foundations, Theory, and Practice 2009. Wiley, ISBN 978-0-470-16774-8
 
@@ -29,7 +29,6 @@ SWA is a level of design that involves
 
 A Set of principal design decisions about the system.
 
-
 ## Prescriptive Architecture
 
 It captures the design decisions prior to the system's construction.
@@ -45,7 +44,6 @@ Prescriptive Arch should be modified first. However, this rarely happens.
 
 It describes how the system has actually been built.
 As implemented SWA.
-
 
 ## Architectural Degradation
 
@@ -64,10 +62,11 @@ Introduced decisions violated a system's prescriptive architecture.
 A software architecture typically is not a monolith.
 
 ![Elements Metaphors](./img/software_architecture_elements.png)
+
 ### Components
 
 * Processing elements: implement business logic and perform transformation on data.
-* Date elements (information/state): 
+* Date elements (information/state):
   elements contained information that is used in processing elements.
 
 #### Software Components
@@ -78,9 +77,11 @@ A software architecture typically is not a monolith.
 ### Connectors
 
 * Interaction elements: glue that holds different pieces together.
-#### Software connector: architectural entity affecting and regulating interaction.
+
+#### Software connector: architectural entity affecting and regulating interaction
 
 ### Arch. configuration
+
 Association between components and connectors of a software architecture.
 
 ## Architecture styles

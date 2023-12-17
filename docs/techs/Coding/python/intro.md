@@ -5,4 +5,3 @@ tags: ['python']
 ---
 
 The minimum python 3 knowledge and study guide
-

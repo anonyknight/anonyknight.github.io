@@ -12,7 +12,6 @@ tags: ['DevSecOps', 'Release', 'CD']
 
 ## Automation Provision
 
-
 ## Infrastructure as Code
 
 [What's IaC](https://stackify.com/what-is-infrastructure-as-code-how-it-works-best-practices-tutorials/)
@@ -25,6 +24,6 @@ tags: ['DevSecOps', 'Release', 'CD']
 
 ## [Terraform](https://www.terraform.io/)
 
-## Why is it important in DevSecOps? 
+## Why is it important in DevSecOps?
 
 > Infrastructure as Code saves the repetitive human effort in setting up and managing the infrastructure. It also removes the human error altogether (i.e. once the script is finalized) by making sure that everything is set up, in the same way, every time the script is run. It also ensures that the developers and testers are working on an accurate setup with no special settings/misconfiguration etc caused by the operations team.

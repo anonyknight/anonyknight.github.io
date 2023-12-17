@@ -20,7 +20,6 @@ Run LeTP-UnitTests locally with docker.
 
 structuring the project to core, plugins, modules, and other independent pieces
 
-
 ## Jenkins pipeline
 
 [Jenkins: Using Gradle to build your Shared Library \\| Rubix](https://www.rubix.nl/blogs/jenkins-using-gradle-build-your-shared-library/)
@@ -29,8 +28,7 @@ structuring the project to core, plugins, modules, and other independent pieces
 
 [Jenkins: Testing a full declarative pipeline in your Shared Library \\| Rubix](https://www.rubix.nl/blogs/jenkins-testing-a-full-declarative-pipeline-in-your-shared-library/)
 
-
-# Q&A:
+# Q&A
 
 ## What's two types of pipeline?
 

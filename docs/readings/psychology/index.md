@@ -7,11 +7,11 @@ summary:  The wisdom starts from knowing yourself.
 authors: [Dingan]
 ---
 
-## Psychology Reading list.
+## Psychology Reading list
 
-1. [《亲密关系》](https://m.douban.com/book/subject/5952488/)/ 
+1. [《亲密关系》](https://m.douban.com/book/subject/5952488/)/
 [Intimate Relationships - Rowland Miller](https://www.goodreads.com/book/show/296330.Intimate_Relationships)
-1. [《心理学与生活》](https://book.douban.com/subject/1032501/) / 
+1. [《心理学与生活》](https://book.douban.com/subject/1032501/) /
 [Psychology and Life](https://www.goodreads.com/book/show/1035242.Psychology_and_Life?ac=1&from_search=true&qid=NLJUD223EP&rank=1)
 1. [《少有人走的路》/ The Road Less Travelled](https://books.google.ca/books/about/The_Road_Less_Travelled.html?id=IXYoAH-MetUC&source=kp_book_description&redir_esc=y)
 1. [《爱的艺术》/ The Art of Loving](https://www.google.ca/books/edition/The_Art_of_Loving/pM8MzzntBRcC?hl=en&gbpv=0)

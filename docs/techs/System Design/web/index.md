@@ -18,6 +18,6 @@ CSS
 
 [Gatsby + Netify](https://github.com/netlify-templates/gatsby-starter-netlify-cms)
 
-
 ## Architecture
+
 [How to design microservices architecture in Django framework?](https://www.reddit.com/r/django/comments/ailhhi/how_to_design_microservices_architecture_in/)

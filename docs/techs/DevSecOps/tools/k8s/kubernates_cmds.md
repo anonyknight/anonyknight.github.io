@@ -6,6 +6,7 @@ tags: ['DevSecOps', 'tools']
 # Kubernates cmds
 
 ## General info and diagnostics
+
 ```bash
 kubectl version -o=yaml       # versions for tool and kubernetes API server
 clientVersion:
@@ -47,7 +48,6 @@ NAME       TYPE        CLUSTER-IP   EXTERNAL-IP   PORT(S)                  AGE
 kube-dns   ClusterIP   10.96.0.10   <none>        53/UDP,53/TCP,9153/TCP   98m
 
 ```
-
 
 kubectl edit configmap
 kubectl get configmap

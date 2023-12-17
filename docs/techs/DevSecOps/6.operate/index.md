@@ -10,4 +10,3 @@ tags: ['DevSecOps', 'Ops', 'CD']
 - How to operate our solutions and report bugs?
 
 ## Ansible
-

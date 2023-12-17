@@ -40,4 +40,3 @@ Typescript
 [vscode](https://github.com/microsoft/vscode)
 
 ## Golang
-

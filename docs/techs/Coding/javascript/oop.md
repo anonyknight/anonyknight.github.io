@@ -5,12 +5,15 @@ tags: ['JS']
 ---
 
 ## Prototypes
+
 Prototype is used for having all properties of another object.
+
 ```javascript
 __proto__
 ```
 
 ## Constructor Functions
+
 ```javascript
 function Employee(_name, _age, _designation){
   // Properties assignment passed as arguments
@@ -30,6 +33,7 @@ var employee1 = new Employee('Mark', 12, 'Manager'); // create Employee objec
 ```
 
 ## Classes
+
 ```javascript
 class Employee{
     constructor(_name, _age, _designation){
@@ -59,7 +63,9 @@ var employee1 = new Employee('Mark', 12, 'Manager'); // create Employee objec
 ```
 
 ## Data Projection: internal variables
-### Hiding properties in a constructor 
+
+### Hiding properties in a constructor
+
 ```javascript
 function Employee(name, age, designation){
   // Properties assignment passed as arguments
@@ -80,6 +86,7 @@ function Employee(name, age, designation){
 ```
 
 ### Hiding properties in a class
+
 ```javascript
 class Employee{
     constructor(name, age, designation){
@@ -104,6 +111,7 @@ class Employee{
 ```
 
 ## Inheritance
+
 An object’s ability to inherit properties of another object through manipulating the prototype property is called **prototypal inheritance**.
 
 ```javascript
@@ -120,6 +128,7 @@ let bmw = {
 ```
 
 ### Constructor function with The call method and prototypal chaining
+
 ```javascript
 function Human(_name,_age){
   // Properties assignment passed as arguments
@@ -157,6 +166,7 @@ console.log(employee1.name, ' has ', employee1.feet, ' feet')
 ```
 
 ### classes extends and super
+
 ```javascript
 class Human{
   constructor (_name,_age){
@@ -193,10 +203,11 @@ console.log(employee1.name, ' has ', employee1.arms, ' arms');
 ```
 
 ## JSON
+
 JavaScript Object Notation(JSON)
+
 * parse method: JSON string -> JS object
 * stringify method: object -> JSON string
-
 
 ```javascript
 ```

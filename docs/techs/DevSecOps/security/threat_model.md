@@ -13,11 +13,9 @@ tags: ['DevSecOps', 'Security']
 
 ![DREAD](https://wildcardcorp.com/image-repository/dread.png)
 
-
 ## Tools
 
 [Threatspec](https://github.com/threatspec/threatspec)
-
 
 ## References
 

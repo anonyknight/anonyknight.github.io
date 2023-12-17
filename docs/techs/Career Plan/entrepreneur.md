@@ -24,6 +24,3 @@ Revenue:
 [Red Hat](https://en.wikipedia.org/wiki/Red_Hat)
 
 [Dubsmash: Scaling To 200 Million Users With 3 Engineers](https://stackshare.io/dubsmash/dubsmash-scaling-to-200-million-users-with-3-engineers)
-
-
-

@@ -11,7 +11,6 @@ To have markdown as the source, build the book, publish it
 
 either in github pages or gitbook.
 
-
 Deploy Gatsby Site
 
 [GitHub - gatsbyjs/gatsby-starter-default: The default Gatsby starter](https://github.com/gatsbyjs/gatsby-starter-default)
@@ -25,4 +24,3 @@ Deploy Gatsby Site
 [gatsby/examples/recipe-sourcing-markdown at master · gatsbyjs/gatsby · GitHub](https://github.com/gatsbyjs/gatsby/tree/master/examples/recipe-sourcing-markdown)
 
 [Deploying to GitHub Pages | Codecademy](https://www.codecademy.com/articles/f1-u3-github-pages)
-

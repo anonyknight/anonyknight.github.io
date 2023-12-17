@@ -20,8 +20,6 @@ tags: ['OMSCS', 'Algorithms', 'Machine-Learning']
 * Manner in which training examples presented - Batch/online
 * Manner in which training examples selected
 
-
-
 ## Selecting training examples
 
 Teacher can ask 1 question to get the answer.
@@ -36,6 +34,3 @@ Learners need to eliminate as many as I can as a learner
 ### Learn with Constrained Queries
 
 ### Learn with mistake bounds
-
-
-

@@ -7,6 +7,7 @@ tags: ['System-Design']
 
 
 [IBM CAP doc](https://www.ibm.com/cloud/learn/cap-theorem)
+
 ## 1. Consistency
 
 ## Week consistency
@@ -15,13 +16,13 @@ After a W, R may or may not see it.
 VoIP, video chat, realtime
 Memcached
 
-## Eventual Consistency - Data is replicated asynchronously.
+## Eventual Consistency - Data is replicated asynchronously
 
 Highly available systems.
 After a W, R will eventually see it.
 Email or DNS.
 
-## Strong consistency - transaction based systems.
+## Strong consistency - transaction based systems
 
 After W, R will see it.
 
@@ -63,4 +64,3 @@ DB types:
 | MongoDB   | **CP**a | BSON(Binary JSON) doc, single-master arch,  SQL query via Connector | C++    |
 | Cassandra | c**AP** | wide-column, master-less arch, repair functionality, SQL-like support | Java   |
 | CouchDB   | c**AP** | JSON                                                         | Erlang |
-

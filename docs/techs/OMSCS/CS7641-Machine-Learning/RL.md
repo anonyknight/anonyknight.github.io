@@ -47,8 +47,8 @@ It does not know or use the models of the transitions T or the rewards R.
 
 ## Fundamental Iterative methods
 
-- Value iteration
-- Policy iteration
+* Value iteration
+* Policy iteration
 
 [How To Code The Value Iteration Algorithm For Reinforcement Learning](https://towardsdatascience.com/how-to-code-the-value-iteration-algorithm-for-reinforcement-learning-8fb806e117d1)
 [Fundamental Iterative Methods of Reinforcement Learning](https://towardsdatascience.com/fundamental-iterative-methods-of-reinforcement-learning-df8ff078652a)

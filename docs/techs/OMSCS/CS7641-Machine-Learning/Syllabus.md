@@ -4,7 +4,7 @@ date: 'January 22, 2022'
 tags: ['OMSCS', 'Machine-Learning']
 ---
 
-## Course Summary:
+## Course Summary
 
 | Date             | Details                                                      |           Due |
 | :--------------- | :----------------------------------------------------------- | ------------: |

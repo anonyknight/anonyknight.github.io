@@ -32,7 +32,7 @@ What are overal system structural issues?
 
 ## From programming languages to software architecture
 
-historical development of **abstration techniques** in CS. 
+historical development of **abstration techniques** in CS.
 
 ### High-Level programming language
 
@@ -88,7 +88,7 @@ Developed vocabulary of software designs
 
 ### What's architectural style?
 
-It defines a family of systems in terms of a **pattern of structural** organization, determintes the vocabulary of **components** and **connectors** together with a set of **constraints** on how they can be combined. 
+It defines a family of systems in terms of a **pattern of structural** organization, determintes the vocabulary of **components** and **connectors** together with a set of **constraints** on how they can be combined.
 
 **constraints**: e.g. topological constraints on architectural descriptions, execution semantics
 
@@ -98,7 +98,7 @@ It defines a family of systems in terms of a **pattern of structural** organizat
 * What's the underlying computational model?
 * What are the essential invariants of the style?
 * What are some common examples of its use?
-* What are the advantages and disadvantages of using that style? 
+* What are the advantages and disadvantages of using that style?
 * What are some of the common specializations?
 
 ### 1. Pipes and Filters
@@ -106,7 +106,7 @@ It defines a family of systems in terms of a **pattern of structural** organizat
 * Components are filters, having a set of inputs and a set of outputs.
 * Connectors are pipes, conduits for the steams, transmitting outputs of one filter to inputs of another.
 
-#### Invariants of the styls: 
+#### Invariants of the styls
 
 * filters should be independent, should not sharing state with other filters.
 * filters do not know the identify of their unsteams and downstreams filters.
@@ -160,12 +160,7 @@ Usage:
 
 ### 5. Repositories
 
-
-
 ## References
 
 *Garlan & Shaw* paper "Introduction to Software Architectures" as covered in the previous Reading Discussion:
 *Chapters 1, 2 and 3 (pages 1 - 17) and Chapter 5 (pages 36 - 37).*
-
-
-

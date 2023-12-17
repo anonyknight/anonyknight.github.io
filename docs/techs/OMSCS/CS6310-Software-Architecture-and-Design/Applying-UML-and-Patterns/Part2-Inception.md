@@ -42,7 +42,7 @@ The main problem solved in one sentence:
 
 #### Isn't That a Lot of Documentation?
 
- That's an Agile Modeling perspective: that the **greatest value of modeling** is to **improve understanding, rather than to document reliable specifications.** 
+ That's an Agile Modeling perspective: that the **greatest value of modeling** is to **improve understanding, rather than to document reliable specifications.**
 
 ### How Much UML During Inception?
 
@@ -60,19 +60,19 @@ Perhaps beyond simple **UML use case diagrams**, not much diagramming is warrant
 
 #### **FURPS+ model**
 
-- ***\*Functional—\**.** features, capabilities, security.
-- ***\*Usability—\**.** human factors, help, documentation.
-- ***\*Reliability—\**.** frequency of failure, recoverability, predictability.
-- ***\*Performance—\**.** response times, throughput, accuracy, availability, resource usage.
-- ***\*Supportability—\**.** adaptability, maintainability, internationalization, **configurability**.
+* ***\*Functional—\**.** features, capabilities, security.
+* ***\*Usability—\**.** human factors, help, documentation.
+* ***\*Reliability—\**.** frequency of failure, recoverability, predictability.
+* ***\*Performance—\**.** response times, throughput, accuracy, availability, resource usage.
+* ***\*Supportability—\**.** adaptability, maintainability, internationalization, **configurability**.
 
 The “+” in FURPS+ indicates ancillary and sub-factors, such as:
 
-- ***\*Implementation—\**.** resource limitations, languages and tools, hardware, ...
-- ***\*Interface—\**.** constraints imposed by interfacing with external systems.
-- ***\*Operations—\**.** system management in its operational setting.
-- ***\*Packaging—\**.** for example, a physical box.
-- ***\*Legal—\**.** licensing and so forth.
+* ***\*Implementation—\**.** resource limitations, languages and tools, hardware, ...
+* ***\*Interface—\**.** constraints imposed by interfacing with external systems.
+* ***\*Operations—\**.** system management in its operational setting.
+* ***\*Packaging—\**.** for example, a physical box.
+* ***\*Legal—\**.** licensing and so forth.
 
 **functional** (behavioral) or **non-functional** (everything else);
 
@@ -94,13 +94,13 @@ The following diagram illustrate write Business Modeling into requirements, then
 
 ### Definition: What are Actors, Scenarios, and Use Cases?
 
-**Definition**: Informally then, a **use case** is a collection of related success and failure **scenarios** that describe an actor using a system to support a **goal**. 
+**Definition**: Informally then, a **use case** is a collection of related success and failure **scenarios** that describe an actor using a system to support a **goal**.
 
 An **Actor** is somthing with behavior, such as a person
 
-A **Scenario**(a use case instance) is a specific sequence of actions and interactions between actors and the system. 
+A **Scenario**(a use case instance) is a specific sequence of actions and interactions between actors and the system.
 
-A **use case** is a collection of related success and failure scenarios that describe an actor using a system to support a goal. 
+A **use case** is a collection of related success and failure scenarios that describe an actor using a system to support a goal.
 
 **Use cases are a key requirements input to classic OOA/D**.
 
@@ -176,4 +176,3 @@ Define one use case for each user goal, start the name of use cases with a verb.
 ### Applying UML: Use Case Diagrams
 
 ![Partial Use case Diagram](../diagrams/06-Partial-Use-Case.gif)
-

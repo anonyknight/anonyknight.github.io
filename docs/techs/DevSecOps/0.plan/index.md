@@ -14,4 +14,3 @@ tags: ['DevSecOps']
 - What technology stack should we use?
 
 ## Threat Model Policies
-

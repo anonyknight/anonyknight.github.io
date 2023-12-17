@@ -33,7 +33,7 @@ Notes from:
 
 ## No-SQL(Not only SQL)
 
-( [BigTable](https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf)[ ](https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf)and [Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) ) reveals the problem of hotizontal scalability.
+( [BigTable](https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf)[](https://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf)and [Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) ) reveals the problem of hotizontal scalability.
 
 ### Pros
 

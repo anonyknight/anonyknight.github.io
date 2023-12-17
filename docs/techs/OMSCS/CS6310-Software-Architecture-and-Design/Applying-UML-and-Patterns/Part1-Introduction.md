@@ -8,27 +8,30 @@ tags: ['OMSCS', 'Agile', 'UML']
 ## Chapter 1 Object Oriented Analysis and Design(OOA/D)
 
 Objectives:
+
 ### What's the book goals and scope?
 
 #### Interactive development process via an agile approach to Unified Process(UP)
-   * How to create an excellent OO design? classic OO design metaphor: responsibility-driven design.
-   * How to use the language for "software blueprints", displaying thought and the form of communication?
 
-#### Introduction to OOA/D and Applying UML.
+* How to create an excellent OO design? classic OO design metaphor: responsibility-driven design.
+* How to use the language for "software blueprints", displaying thought and the form of communication?
+
+#### Introduction to OOA/D and Applying UML
+
 #### Focus on fundamentals
+
 * how to assign responsibilities to objects, UML notation, common design patterns.
 * principles, heuristics or design patterns(problem solution formulas for design principles)
 * **requirements analysis** related to **use cases.**
 
-#### Intermediate level topics: framework design and architectural analysis.
+#### Intermediate level topics: framework design and architectural analysis
 
 In conclusion:
 
-- Create better object designs by applying principles and patterns
-- Iteratively follow common analysis and design activities, an agile approach to UP.
-- Create frequently used UML diagrams.
+* Create better object designs by applying principles and patterns
+* Iteratively follow common analysis and design activities, an agile approach to UP.
+* Create frequently used UML diagrams.
   
-
 ![Topics and skills covered](../diagrams/ooad-topics.gif)
 
 ### How to define OOA/D?
@@ -46,23 +49,23 @@ its implementation.
 In OO, design is to define software objects and how they collaborate to fulfill
 the requirements.
 
-### A Short Example 
+### A Short Example
 
-- Requirements Analysis - Define use cases (Use case UML)
-- Define domain model - show noteworthy domain concepts or objects. Domain model = conceptual object model. (Domain Model diagram for real-world classes)
-- Assign object responsibilities and collaborations, draw interaction diagrams. (sequence diagram)
-- Design class diagram to have a static view of the class. (software classes diagram)
+* Requirements Analysis - Define use cases (Use case UML)
+* Define domain model - show noteworthy domain concepts or objects. Domain model = conceptual object model. (Domain Model diagram for real-world classes)
+* Assign object responsibilities and collaborations, draw interaction diagrams. (sequence diagram)
+* Design class diagram to have a static view of the class. (software classes diagram)
 
-### What's the overview UML and visual agile modeling.
+### What's the overview UML and visual agile modeling
 
 UML is a **visual** language to specify and construct, document the artifacts of systems.
 
 At deeper level in Model Driven Architecture(MDA), UML notation is the UML meta-model.
 
-Three ways to apply UML 
-- As Sketch, informal and incomplete hand drawing on whiteboards.
-- As Blueprint, reverse engineering to visualize and understand the code or code generation(forward engineering).
-- As programming language, to generate the executable code.
+Three ways to apply UML
+* As Sketch, informal and incomplete hand drawing on whiteboards.
+* As Blueprint, reverse engineering to visualize and understand the code or code generation(forward engineering).
+* As programming language, to generate the executable code.
 
 #### Three perspectives to apply UML
 
@@ -78,8 +81,7 @@ Software Development process describes the approach for the software
 
 1. Building
 2. Deploying
-3. maintaining 
-
+3. maintaining
 
 UP includes skill practices
 
@@ -103,7 +105,6 @@ Risk-driven development
 1. UP is an iterative process.
 2. UP provides an example structure for how to do OOA/D
 3. UP is flexible and a lightweight.
-
 
 ### The central idea of this book
 
@@ -157,7 +158,7 @@ Remaining days:
 5. Managed complexity
 6. an iteration learning can methodically improve the development process. Iteration by iteration.
 
-### How long should an iteration be? 
+### How long should an iteration be?
 
 Two to six weeks.
 
@@ -171,7 +172,7 @@ Central idea: small steps, rapid feedback, adaptation.
 
 Waterfall thinking based on speculation and hearsay.
 
-1. Write most requirements before development, 
+1. Write most requirements before development,
 1. Create thorough and detailed specifications or detailed OO UML models, designs before programming.
 1. Write all use cases before starting to program.
 
@@ -188,6 +189,7 @@ Clarify the requirements in workshops, improve CI/CD must-to-have, design worksh
 and testing, elaboration phase, then implement.
 
 ### 1. Iteration-1
+
 Two days for time-boxed requirements workshop, engaged business and development people, chief architect.
 
 * Day-1 morning, high level requirement analysis, identify use case names, features, and key non-functional requirements.
@@ -195,9 +197,11 @@ Two days for time-boxed requirements workshop, engaged business and development 
 * 1.5 days, do intensive detailed analysis for three use cases, UC.
 
 ### 2. an iteration planning meeting
+
 Investigate UCs and then design, build, and test within timeboxed iteration. Break them down into a set of more detailed iteration tasks.
 
-### 3. Do iteration-1 over 3 weeks.
+### 3. Do iteration-1 over 3 weeks
+
 * First 2 days, modeling and design work in pairs, sketching UML diagrams at whiteboards in a common war room, coached and guided by the chief architect.
 * Programming, testing and integrating their work over the remaining weeks, using the modeling UMLs.
 * More testing: unit, acceptance, load, usability, etc.
@@ -205,15 +209,20 @@ Investigate UCs and then design, build, and test within timeboxed iteration. Bre
 * Tuesday of the last week, code freeze, create iteration baseline.
 * Wednesday morning, demo the partial system to stakeholders, collect feedbacks.
 
-### 4. 2nd requirements workshop near the end of iteration-1. 
+### 4. 2nd requirements workshop near the end of iteration-1
+
 Review and refine materials, pick another 10% to 15% use cases with significant and of high business value, analyze them in details.
 
-### 5. Friday morning, hold another iteration planning meeting.
-### 6. Do iteration-2 with similar steps.
-### 7. Iteration Repeat.
+### 5. Friday morning, hold another iteration planning meeting
+
+### 6. Do iteration-2 with similar steps
+
+### 7. Iteration Repeat
+
 for four iterations and five requirements workshops, 80% to 90% requirements have been written in details, the end of **elaboration phase**.
 
-### 8. Stabilized requirements and then implementation.
+### 8. Stabilized requirements and then implementation
+
 Requirements workshops are unlikely. The requirements are stabilized. Keep ask this in each iteration: “Given what we know today, what are the most critical technical and business features we should do in the next three weeks?”
 
 ### What is Risk-Driven and Client-Driven Iterative Planning?
@@ -227,7 +236,7 @@ Requirements workshops are unlikely. The requirements are stabilized. Keep ask t
 
 ### Basic practice in Agile method
 
-1. Short timeboxed iterations with evolutionary refinement of plans, 
+1. Short timeboxed iterations with evolutionary refinement of plans,
 requirements, and design.
 2. promoting practices and principles for simplicity, lightness, communication, self-organizing teams.
 3. Four special questions in each stand-up meeting.
@@ -257,17 +266,17 @@ Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a m
 
 # What is Agile Modeling?
 
-- The purpose of modeling (sketching UML, ...) is primarily to *understand*, not to document. UML can help quickly explore alternatives and the path to a good OO design.
-- Model and apply the UML for the unusual, difficult, tricky parts of the design space.
-- Use the simpletest tool possible. Whiteboard or UML CASE tool.
-- Model in pairs or triads, discover, understand and share that understanding, rotate pen sketching.
-- Create models in parrallel with dynamic-view UML interaction diagram and static-view UML class diagram.
-- Treat prior diagrams lightly as throw-away explorations. **Only tested code demonstrates the true design.**
-- Developers themselves should do the OO design modeling for themselves.
+* The purpose of modeling (sketching UML, ...) is primarily to *understand*, not to document. UML can help quickly explore alternatives and the path to a good OO design.
+* Model and apply the UML for the unusual, difficult, tricky parts of the design space.
+* Use the simpletest tool possible. Whiteboard or UML CASE tool.
+* Model in pairs or triads, discover, understand and share that understanding, rotate pen sketching.
+* Create models in parrallel with dynamic-view UML interaction diagram and static-view UML class diagram.
+* Treat prior diagrams lightly as throw-away explorations. **Only tested code demonstrates the true design.**
+* Developers themselves should do the OO design modeling for themselves.
 
 ### Agile Modeling in this Book: Why the Snapshots of UML Sketches?
 
-UML-sketch modeling on whiteboards is a practice I. 
+UML-sketch modeling on whiteboards is a practice I.
 
 # What is an Agile UP?
 
@@ -298,8 +307,6 @@ UML-sketch modeling on whiteboards is a practice I.
 4. ***\*Transition—\**.** beta **tests, deployment.**
 
 ![**Figure 2.6. Schedule-oriented terms in the UP.**](../diagrams/UP-schedule-terms.gif)
-
-
 
 # What are the UP Disciplines?
 
@@ -334,29 +341,29 @@ UML-sketch modeling on whiteboards is a practice I.
 | Project Management          | agile PM daily Scrum meeting                                 |                ... |        |        |        |        |
 | ...                         |                                                              |                    |        |        |        |        |
 
-### You Know You Didn't Understand Iterative Development or the UP When...
+### You Know You Didn't Understand Iterative Development or the UP When
 
-- You try to define requirements before design or implementation, define design before implementation, or define an architecture before iterative programming and testing.
-- Doing UML modeling before programming, regarding programming as a simple mechanical translation of UML into code.
-- Believing inception = requirements, elaboration = design, and construction = implementation (that is, superimposing the waterfall on the UP).
-- Regarding elaboration purpose is to define models and construct code.
-- Iteration length is three months long instead of **three weeks.**
-- Adpoting the UP means many activities and create many documents.
-- Plan a project in details, speculatively predict activities.
+* You try to define requirements before design or implementation, define design before implementation, or define an architecture before iterative programming and testing.
+* Doing UML modeling before programming, regarding programming as a simple mechanical translation of UML into code.
+* Believing inception = requirements, elaboration = design, and construction = implementation (that is, superimposing the waterfall on the UP).
+* Regarding elaboration purpose is to define models and construct code.
+* Iteration length is three months long instead of **three weeks.**
+* Adpoting the UP means many activities and create many documents.
+* Plan a project in details, speculatively predict activities.
 
 ### History
 
-In the late **1950s**, evolutionary, iterative, and incremental development (IID), rather than the waterfall. 
+In the late **1950s**, evolutionary, iterative, and incremental development (IID), rather than the waterfall.
 
  The first published paper promoting iterative rather than waterfall development was published in **1968** at the IBM T.J. Watson Research Center.
 
-IID was used on many large defense and aerospace projects in the **1970s**. 
+IID was used on many large defense and aerospace projects in the **1970s**.
 
-Also in the **1980s**, Dr. Frederick Brooks (of *Mythical Man-Month* fame), wrote and spoke about the shortcomings of the waterfall and the need to instead use IID methods. 
+Also in the **1980s**, Dr. Frederick Brooks (of *Mythical Man-Month* fame), wrote and spoke about the shortcomings of the waterfall and the need to instead use IID methods.
 
 By the early **1990s**, IID was widely recognized as the successor to the waterfall, and there was a flowering of iterative and evolutionary methods: UP, DSDM, Scrum, XP, and many more.
 
-## Ch.3 Case Studies.
+## Ch.3 Case Studies
 
 ### Why focus on OOA/D in the core application logic layer?
 

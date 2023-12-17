@@ -5,6 +5,7 @@ tags: ['System-Design']
 ---
 
 # DDIP
+
 Design Data Intensive Application
 
 ## Why data-intensive?

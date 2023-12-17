@@ -10,4 +10,3 @@ tags: ['DevSecOps', 'Ops']
 - How to Monitor our solutions and report bugs?
 
 ## Ansible
-

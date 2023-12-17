@@ -15,7 +15,7 @@ tags: ['OMSCS']
 ## Service - Background, binding service
 
 * Download
-* Music playing 
+* Music playing
 
 ## Content Provider
 
@@ -30,18 +30,17 @@ tags: ['OMSCS']
 * Register for event
 * notification
 
-## Intents - > Late binding.
+## Intents - > Late binding
 
 * Action
 * Data
 
 ## Binding
 
-- Direct (activity)
-- Direct(service)
-- Broadcast
+* Direct (activity)
+* Direct(service)
+* Broadcast
 
 ## Manifest
 
 ## Android Activity Lifecycle
-

@@ -25,8 +25,8 @@ tags: ['OMSCS']
 - [UML 2.0 in a Nutshell, Dan Pilone, Neil Pitman](https://learning.oreilly.com/library/view/uml-2-0-in/0596007957/)
 - [Domain-Driven Design: Tackling Complexity in the Heart of Software](https://learning.oreilly.com/library/view/domain-driven-design-tackling/0321125215/)
 
-
 ## Object Mangagement Group(OMG) UML references
+
 - [OMG-Unified Modeling Language](https://www.omg.org/spec/UML/2.5.1/PDF)
 - [OMG-UML v1.4](https://www.omg.org/spec/UML/1.4/PDF)
 - [OMG-OCL v2.0](https://www.omg.org/spec/OCL/2.0/PDF)

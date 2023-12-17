@@ -7,7 +7,9 @@ tags: ['OMSCS']
 
 
 ## Chapter 2
+
 ## What's Design?
+
 Design is both
 
 - "the process of defining the architecture, components, interfaces and
@@ -56,7 +58,6 @@ A wicked problem is a problem with no definitive solution.
 ### ![14.Mathematical Foundations](./diagrams/14-Mathematical-Foundations.png)
 
 ### ![15.Engineering Foundations](./diagrams/15-Engineering-Foundations.png)
-
 
 ## Reference
 

@@ -12,5 +12,4 @@ tags: ['DevSecOps', 'Automation', 'Test']
 ![Selenium Grid architecture
 ](https://i0.wp.com/blog.knoldus.com/wp-content/uploads/2020/03/grid.png?w=656&ssl=1)
 
-
 [Kubernetes DevOps Youtuber](https://www.youtube.com/c/HoussemDellai/featured)

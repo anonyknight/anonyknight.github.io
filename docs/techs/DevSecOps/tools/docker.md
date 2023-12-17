@@ -21,7 +21,7 @@ tags: ['DevSecOps', 'tools']
 ### Keywords/commands
 
 - .dockerignore:  file ignore files in the context
-- From  : a new build stage and sets the base image. 
+- From  : a new build stage and sets the base image.
 - RUN   : Execute commands in a new year on top of current image.
 - CMD   : the defaults for an executing container.
   - exec, shell, Entrypoint default form.
@@ -46,4 +46,5 @@ tags: ['DevSecOps', 'tools']
 - SHELL: Change default shell.
 
 ## Docker commands
+
 - BUILD : use Dockerfile and a context(PATH or URL the set of files)

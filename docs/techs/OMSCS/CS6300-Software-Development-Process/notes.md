@@ -37,7 +37,7 @@ The importance of Software Engineer(SE)
 
 #### Tools
 
-* IDEs 
+* IDEs
 * VCS (Git)
 * Coverage and verification tools
 
@@ -129,7 +129,7 @@ Verification: did we build the system right?
 
 ### Classic Mistakes
 
-* People: 
+* People:
   * Heroics
   * work environment
   * people management
@@ -149,4 +149,3 @@ Verification: did we build the system right?
 ## IDE
 
 ## Android
-

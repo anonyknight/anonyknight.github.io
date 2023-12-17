@@ -41,4 +41,3 @@ Smoke testing
 [QA process maturity: Models and capabilities](https://www.scnsoft.com/blog/qa-process-maturity-models-and-capabilities)
 
 ![QA process](./guide-to-the-sw-qa-process-steps.png)
-
