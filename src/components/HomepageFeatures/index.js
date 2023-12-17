@@ -5,6 +5,8 @@ import Link from "@docusaurus/Link";
 import BookSVG from "@site/static/img/book.svg";
 import BlogSVG from "@site/static/img/blog.svg";
 
+import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
+
 const FeatureList = [
   {
     title: "Techs",
@@ -54,7 +56,7 @@ function Feature({ image, title, description, path }) {
   );
 }
 
-export default function HomepageFeatures() {
+export function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
@@ -65,5 +67,19 @@ export default function HomepageFeatures() {
         </div>
       </div>
     </section>
+  );
+}
+
+export function HomepageHeader() {
+  const {siteConfig} = useDocusaurusContext();
+  return (
+    <header className={clsx('hero', styles.heroBanner)}>
+      <div className="container">
+        <h1 className="hero__title">{siteConfig.title}</h1>
+        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <div className={styles.buttons}>
+        </div>
+      </div>
+    </header>
   );
 }
