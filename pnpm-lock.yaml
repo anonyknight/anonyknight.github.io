@@ -44,6 +44,9 @@ dependencies:
   clsx:
     specifier: ^1.2.1
     version: 1.2.1
+  d3:
+    specifier: ^7.8.5
+    version: 7.8.5
   mermaid:
     specifier: ^10.3.1
     version: 10.6.1
