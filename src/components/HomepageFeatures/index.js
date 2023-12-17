@@ -13,19 +13,19 @@ const FeatureList = [
   {
     title: "Techs",
     image: <BookSVG />,
-    description: <>Structured notes for software engineering career.</>,
+    description: "Structured notes for software engineering career.",
     path: "/docs/techs",
   },
   {
     title: "Readings",
     image: <BookSVG />,
-    description: <>Structured notes for life-long learning.</>,
+    description: "Structured notes for life-long learning.",
     path: "/docs/readings",
   },
   {
     title: "Blogs",
     image: <BlogSVG />,
-    description: <>Random topics from daily study, work and life.</>,
+    description: "Random topics from daily study, work and life.",
     path: "/blog",
   },
   //   {
@@ -62,14 +62,24 @@ Feature.propTypes = {
   path: PropTypes.string.isRequired,
 };
 
+function getFeature(props) {
+  return (
+    <Feature
+      key={props.title}
+      image={props.image}
+      title={props.title}
+      description={props.description}
+      path={props.path}
+    />
+  );
+}
+
 export function HomepageFeatures() {
   return (
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-          {FeatureList.map((props) => (
-            <Feature key={props.id} {...props} />
-          ))}
+          {FeatureList.map((props) => getFeature(props))}
         </div>
       </div>
     </section>
