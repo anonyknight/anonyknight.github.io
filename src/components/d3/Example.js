@@ -1,15 +1,14 @@
-import React from "react";
+import React, { useEffect, useRef } from "react";
 import * as d3 from "d3";
-import { useEffect, useRef } from "react";
 
 export default function Barchart() {
   const ref = useRef();
 
   useEffect(() => {
     // set the dimensions and margins of the graph
-    const margin = { top: 30, right: 30, bottom: 70, left: 60 },
-      width = 460 - margin.left - margin.right,
-      height = 400 - margin.top - margin.bottom;
+    const margin = { top: 30, right: 30, bottom: 70, left: 60 };
+    const width = 460 - margin.left - margin.right;
+    const height = 400 - margin.top - margin.bottom;
 
     // append the svg object to the body of the page
     const svg = d3
@@ -22,8 +21,8 @@ export default function Barchart() {
 
     // Parse the Data
     d3.csv(
-      "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv"
-    ).then(function (data) {
+      "https://raw.githubusercontent.com/holtzy/data_to_viz/master/Example_dataset/7_OneCatOneNum_header.csv",
+    ).then((data) => {
       // X axis
       const x = d3
         .scaleBand()
@@ -55,7 +54,5 @@ export default function Barchart() {
     });
   }, []);
 
-  return (
-    <svg align="center" width={460} height={400} id="barchart" ref={ref} />
-  );
+  return <svg width={460} height={400} id="barchart" ref={ref} />;
 }

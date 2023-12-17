@@ -21,7 +21,7 @@ const config = {
   url: "https://anonyknight.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: baseUrl,
+  baseUrl,
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -48,7 +48,7 @@ const config = {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl: "https://github.com/anonyknight" + baseUrl + "/edit/master/",
+          editUrl: `https://github.com/anonyknight${baseUrl}/edit/master/`,
           showLastUpdateTime: true,
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
@@ -59,8 +59,7 @@ const config = {
             defaultReadingTime({ content, options: { wordsPerMinute: 220 } }),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
-          editUrl:
-            "https://github.com/anonyknight/" + baseUrl + "/edit/master/",
+          editUrl: `https://github.com/anonyknight/${baseUrl}/edit/master/`,
           blogSidebarCount: "ALL",
           remarkPlugins: [remarkMath],
           rehypePlugins: [rehypeKatex],
