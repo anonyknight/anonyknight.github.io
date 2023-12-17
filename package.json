@@ -16,8 +16,8 @@
     "prepare": "husky install",
     "eslint": "eslint .",
     "eslint-fix": "eslint . --fix",
-    "mdlint": "markdownlint-cli2 '**/*.md' '#node_modules'",
-    "mdlint-fix": "markdownlint-cli2 --fix '**/*.md' '#node_modules'"
+    "mdlint": "markdownlint-cli2 '**/*.md' '!.trunk' '!node_modules'",
+    "mdlint-fix": "markdownlint-cli2 --fix 'docs/**/*.md' '!.trunk' '!node_modules'"
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",

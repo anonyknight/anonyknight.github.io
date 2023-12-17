@@ -1,11 +1,12 @@
 ---
-title: Psychology
 date: '2021-09-15'
 tags: ['reading']
 draft: false
 summary:  The wisdom starts from knowing yourself.
 authors: [Dingan]
 ---
+
+# Psychology
 
 ## Psychology Reading list
 
@@ -23,4 +24,4 @@ authors: [Dingan]
 1. [《坚毅》/ Grit: The Power of Passion and Perseverance](https://www.goodreads.com/book/show/27213329-grit?ac=1&from_search=true&qid=DXvYtClwlW&rank=1)
 1. [《禅与摩托车维修艺术》 / Zen and the Art of Motorcycle Maintenance](https://book.douban.com/subject/6811366/)
 1. [《深度学习》/ Deep work](https://www.goodreads.com/book/show/25744928-deep-work)
-2. [《自卑与超越》/ What Life Could Mean to You](https://www.goodreads.com/book/show/23831781-alfred-adler-4-book-collection)
+1. [《自卑与超越》/ What Life Could Mean to You](https://www.goodreads.com/book/show/23831781-alfred-adler-4-book-collection)

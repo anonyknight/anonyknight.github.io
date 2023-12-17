@@ -1,5 +1,4 @@
 ---
-title: Rabindranath Tagore
 date: '2023-08-06'
 tags: ['life', 'literature']
 draft: false
@@ -7,7 +6,7 @@ summary:  Rabindranath Tagore
 authors: [Dingan]
 ---
 
-## [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore)
+# [Rabindranath Tagore](https://en.wikipedia.org/wiki/Rabindranath_Tagore)
 
 **不是锤的打击，而是水的载歌载舞，使鹅卵石臻于完美。**
 
@@ -47,6 +46,7 @@ We come nearest to the great when we are great in humility.
 
 **过去的浮云，已不再带来骤雨狂风，而是装点了我的落日晴空。**
 
-Clouds come floating into my life from other days no longer to shed rain or usher storm but to give colour to my sunset sky.
+Clouds come floating into my life from other days no longer to shed rain or
+usher storm but to give colour to my sunset sky.
 
 [泰戈尔飞鸟集Stray Birds 原创翻译](https://zhuanlan.zhihu.com/p/565756625)

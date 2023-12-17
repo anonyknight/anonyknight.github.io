@@ -18,7 +18,8 @@ Students may have different reasons to join this program.
 * Explore more opportunities in different concentrations.
 * Switch majors from other fields into computer sciences.
 
-I was for the first and second reasons to expand my Computer System skills and expand machine learning knowledge.
+I was for the first and second reasons to expand my Computer
+System skills and expand machine learning knowledge.
 
 ## Computer Systems AOS
 

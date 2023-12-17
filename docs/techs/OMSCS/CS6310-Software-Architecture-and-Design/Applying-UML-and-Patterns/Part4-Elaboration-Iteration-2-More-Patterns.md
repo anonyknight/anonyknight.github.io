@@ -51,6 +51,7 @@ tags: ['OMSCS', 'Agile', 'UML']
 ## Chapter 39 Documenting Architecture: UML and the N+1 View Model
 
 4+1 Views
+
 * Logical
 * Process
 * Deployment

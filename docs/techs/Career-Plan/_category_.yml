@@ -1,7 +1,8 @@
-position: 20000 # float position is supported
+position: 200 # float position is supported
 collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 className: red
+label: Career Plan
 link:
   type: generated-index
 customProps:

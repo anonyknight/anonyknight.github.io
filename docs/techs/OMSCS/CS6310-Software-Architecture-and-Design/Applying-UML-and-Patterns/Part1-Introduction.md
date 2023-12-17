@@ -63,6 +63,7 @@ UML is a **visual** language to specify and construct, document the artifacts of
 At deeper level in Model Driven Architecture(MDA), UML notation is the UML meta-model.
 
 Three ways to apply UML
+
 * As Sketch, informal and incomplete hand drawing on whiteboards.
 * As Blueprint, reverse engineering to visualize and understand the code or code generation(forward engineering).
 * As programming language, to generate the executable code.

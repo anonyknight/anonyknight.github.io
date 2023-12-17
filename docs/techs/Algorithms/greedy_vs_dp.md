@@ -1,5 +1,4 @@
 ---
-title: Greedy vs DP
 last_update:
     date: 'August 8, 2021'
 tags: ['Algorithms']
