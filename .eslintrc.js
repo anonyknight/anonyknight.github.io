@@ -4,15 +4,15 @@ module.exports = {
     browser: true,
     es2022: true,
     commonjs: true,
+    node: true,
   },
   extends: [
     "airbnb",
+    "airbnb/hooks",
     "eslint:recommended",
     "plugin:react/recommended",
     "plugin:react-hooks/recommended",
     "plugin:prettier/recommended",
-    "plugin:import/errors",
-    "plugin:import/warnings",
     "plugin:jsx-a11y/recommended",
     "plugin:@docusaurus/recommended",
   ],
@@ -31,12 +31,10 @@ module.exports = {
     ecmaFeatures: {
       jsx: true,
     },
+    project: "./tsconfig.eslint.json",
   },
   overrides: [
     {
-      env: {
-        node: true,
-      },
       files: [".eslintrc.{js,cjs}", "**/*.js", "**/*.jsx"],
     },
   ],
@@ -47,5 +45,9 @@ module.exports = {
   },
   rules: {
     "react/jsx-filename-extension": [1, { extensions: [".js", ".jsx"] }],
+    "import/no-unresolved": [
+      2,
+      { ignore: ["^@theme", "^@docusaurus", "^@site"] },
+    ],
   },
 };
