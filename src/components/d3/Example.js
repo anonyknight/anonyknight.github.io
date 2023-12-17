@@ -2,9 +2,6 @@ import React from "react";
 import * as d3 from "d3";
 import { useEffect, useRef } from "react";
 
-import Layout from "@theme/Layout";
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
-
 export default function Barchart() {
   const ref = useRef();
 
@@ -58,17 +55,7 @@ export default function Barchart() {
     });
   }, []);
 
-  const {siteConfig} = useDocusaurusContext();
   return (
-    <Layout
-      title={`${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
-    >
-      <main>
-      <svg align="center" width={460} height={400} id="barchart" ref={ref} />
-      </main>
-    </Layout>
+    <svg align="center" width={460} height={400} id="barchart" ref={ref} />
   );
-};
-
-
+}
