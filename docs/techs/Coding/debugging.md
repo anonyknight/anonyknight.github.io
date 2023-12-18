@@ -1,12 +1,12 @@
 ---
-title: Debugging
 date: 'August 4, 2021'
 tags: ['linux']
 ---
+# Debugging
 
 [Debugging book](https://learning.oreilly.com/library/view/debugging/9780814474570/) by David Agans
 
-**"9 indispensable rules for finding even the most elusive software and hardware problems."**
+## 9 indispensable rules for finding even the most elusive software and hardware problems
 
 \1. Understand the system
 \2. Make it fail

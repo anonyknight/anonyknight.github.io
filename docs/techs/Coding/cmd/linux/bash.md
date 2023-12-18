@@ -15,7 +15,7 @@ tags: ['study', 'linux']
 
 ## Python to run bash
 
-```
+```bash
 subprocess.run("exit 1", shell=True, check=True)
 ```
 

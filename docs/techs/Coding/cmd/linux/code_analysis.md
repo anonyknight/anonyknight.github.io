@@ -9,7 +9,7 @@ tags: ['study', 'linux']
 
 Sample output
 
-```
+```bash
 cloc .
       74 text files.
       74 unique files.                              
