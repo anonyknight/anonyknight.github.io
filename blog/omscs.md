@@ -1,7 +1,6 @@
 ---
 title: OMSCS
-last_update:
-  date: 'July 12, 2023'
+date: 'July 12, 2023'
 tags: ['study', 'gatech']
 authors: [Dingan]
 ---
