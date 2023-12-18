@@ -1,9 +1,10 @@
 ---
-title: OMSCS
 date: 'July 12, 2023'
 tags: ['study', 'gatech']
 authors: [Dingan]
 ---
+
+# OMSCS
 
 ## Gatech [OMSCS](https://omscs.gatech.edu/)
 

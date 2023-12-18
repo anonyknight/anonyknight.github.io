@@ -31,5 +31,9 @@ redis, celery: asynchronous task queue
 ## Resources
 
 [system-design-primer](https://github.com/donnemartin/system-design-primer)
+
 [Grokking the System Design Interview](https://www.educative.io/courses/grokking-the-system-design-interview)
+
 [Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](https://learning.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+
+[Latency Numbers Every Programmer Should Know](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
