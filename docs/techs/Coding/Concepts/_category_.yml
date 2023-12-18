@@ -4,6 +4,5 @@ collapsed: true # keep the category open by default
 className: red
 link:
   type: generated-index
-  title: Object Oriented Programming
 customProps:
   description: This description can be used in the swizzled DocCard

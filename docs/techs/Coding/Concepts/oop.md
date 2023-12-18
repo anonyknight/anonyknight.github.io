@@ -1,8 +1,10 @@
 ---
-title: Polymorphism
 date: 'April 18, 2023'
 tags: ['Programming']
 ---
+# Object Oriented Programming
+
+Object Oriented Programming(OOP)
 
 ## What's polymorphism?
 

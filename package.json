@@ -14,10 +14,8 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "prepare": "husky install",
-    "eslint": "eslint .",
     "eslint-fix": "eslint . --fix",
-    "mdlint": "markdownlint-cli2 '**/*.md' '!.trunk' '!node_modules'",
-    "mdlint-fix": "markdownlint-cli2 --fix 'docs/**/*.md' '!.trunk' '!node_modules'"
+    "mdlint-fix": "markdownlint-cli2 --fix '**/*.md' '!.trunk' '!node_modules'"
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",
