@@ -99,7 +99,7 @@ Most of the questions have been drawn from the *Garlan & Shaw* paper "Introducti
 Paper - *Design Patterns: Abstraction and Reuse of Object-Oriented Design*
 [21 pages - all fair game]
 
-**Larman**
+### Larman
 
 - *Chapter 17. GRASP: Designing Objects with Responsibilities*
 - *Chapter 25. GRASP: More Objects with Responsibilities*

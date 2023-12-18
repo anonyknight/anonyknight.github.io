@@ -1,5 +1,4 @@
 ---
-title: Grey Box Testing
 summary: QA procedures and methodologies
 date: '2021-08-09'
 tags: ['DevSecOps', 'QA', 'Test']

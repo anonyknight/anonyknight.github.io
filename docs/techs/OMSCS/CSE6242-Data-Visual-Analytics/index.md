@@ -28,7 +28,14 @@ He also conducts Dataviz Workshops in major cities around the world and you can 
 
 August 2020 edition of Wired magazine had a brilliant article on data visualization aptly titled, [Is Your Chart a Detective Story? Or a Police Report?](https://www.wired.com/story/is-your-chart-a-detective-story-or-a-police-report/). Here's a small abstract from the article:
 
-> *Consider the visualization created by information designer Will Burtin in 1951 to summarize the effectiveness of three antibiotics—penicillin, neomycin, and streptomycin—in treating 13 bacteria. Bacterial species are arrayed in a circular layout, with three bars for each bacterial infection representing the amount of each antibiotic needed to treat it. An inversion of the scale means that longer bars represent more effective antibiotics, aligning with a spontaneous interpretation of bigger is better, while shading behind the bars neatly organizes the bacteria into two groups according to whether they result in a positive or negative gram stain test.*
+> *Consider the visualization created by information designer Will Burtin in 1951
+> to summarize the effectiveness of three antibiotics—penicillin, neomycin, and streptomycin—in
+> treating 13 bacteria. Bacterial species are arrayed in a circular layout, with three bars for
+> each bacterial infection representing the amount of each antibiotic needed to treat it.
+> An inversion of the scale means that longer bars represent more effective antibiotics,
+> aligning with a spontaneous interpretation of bigger is better, while shading behind
+> the bars neatly organizes the bacteria into two groups according to whether they
+> result in a positive or negative gram stain test.*
 
 This article is a great place to understand the pros and cons of creative non-traditional visualizations.
 
@@ -39,7 +46,14 @@ Jony Ive's biography [Jony Ive: The Genius Behind Apple's Greatest Products](htt
 
 has some wonderful lessons one can learn on creating a simple and intuitive design for complex problems. Here's is a small excerpt from this book:
 
-> The process of simplification is design 101, a mind-set that every design student is taught in school. But not every student adopts it, and it’s rarely applied with the ruthless discipline practiced by Jony. Indeed, if there’s such a thing as a single secret to what Jony Ive does, it is to follow slavishly the simplification philosophy. That approach has accounted for many of the major breakthroughs, as well as for some products that failed and others that Apple hasn’t released. Caring enough to commit the enormous time and effort to get something right has also been Jony’s hallmark, from his earliest college projects onward. Jony’s ultimate goal is for his designs to disappear.
+> The process of simplification is design 101, a mind-set that every design student is taught
+> in school. But not every student adopts it, and it’s rarely applied with the ruthless discipline
+> practiced by Jony. Indeed, if there’s such a thing as a single secret to what Jony Ive does,
+> it is to follow slavishly the simplification philosophy. That approach has accounted for many
+> of the major breakthroughs, as well as for some products that failed and others that Apple
+> hasn’t released. Caring enough to commit the enormous time and effort to get something right
+> has also been Jony’s hallmark, from his earliest college projects onward. Jony’s ultimate
+> goal is for his designs to disappear.
 >
 
 ***"Correlation does not imply causation"\***. The deciphering “causation” has been an open question for decades if not centuries. Judea Pearl is not only described as one of the giants in the field of artificial intelligence but also considered as one of the founding fathers of the causal revolution.
@@ -114,7 +128,19 @@ E.O. Wilson’s [Letters to Young Scientist](https://amzn.to/3p1outr) is an insi
 
 Here’s a small excerpt from the book where the living legend of biology draws an analogy between a scientist and an artist :
 
-*The ideal scientist thinks like a poet and only later works like a bookkeeper. Keep in mind that innovators in both literature and science are basically dreamers and storytellers. In the early stages of the creation of both literature and science, everything in the mind is a story. There is an imagined ending, and usually an imagined beginning, and a selection of bits and pieces that might fit in between. In works of literature and science alike, any part can be changed, causing a ripple among the other parts, some of which are discarded and new ones added. The surviving fragments are variously joined and separated and moved about as the story forms. One scenario emerges, then another. The scenarios, whether literary or scientific in nature, compete with one another. Some overlap. Words and sentences (or equations or experiments) are tried to make sense of the whole thing. Early on, an end to all the imagining is conceived. It arrives at a wondrous denouement (or scientific breakthrough). But is it the best, is it true? To bring the end safely home is the goal of the creative mind.****
+*The ideal scientist thinks like a poet and only later works like a bookkeeper.
+Keep in mind that innovators in both literature and science are basically dreamers
+and storytellers. In the early stages of the creation of both literature and science,
+everything in the mind is a story. There is an imagined ending, and usually an imagined
+beginning, and a selection of bits and pieces that might fit in between.
+In works of literature and science alike, any part can be changed, causing a ripple
+among the other parts, some of which are discarded and new ones added. The surviving
+fragments are variously joined and separated and moved about as the story forms.
+One scenario emerges, then another. The scenarios, whether literary or scientific
+in nature, compete with one another. Some overlap. Words and sentences (or equations
+or experiments) are tried to make sense of the whole thing. Early on, an end to all
+the imagining is conceived. It arrives at a wondrous denouement (or scientific breakthrough).
+But is it the best, is it true? To bring the end safely home is the goal of the creative mind.****
 
 \***
 

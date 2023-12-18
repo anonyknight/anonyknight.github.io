@@ -256,16 +256,16 @@ Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a m
 
 ### The Agile Principles
 
-| 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software. | 8. Agile processes promote sustainable development.          |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. | 9. The sponsors, developers, and users should be able to maintain a constant pace indefinitely. |
-| 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter time scale. | 10. Continuous attention to technical excellence and good design enhances agility. |
-| 4. Business people and developers must work together daily throughout the project. | 11. Simplicity—the art of maximizing the amount of work not done—is essential. |
-| 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. | 12. The best architectures, requirements, and designs emerge from self-organizing teams. |
-| 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation. | 13. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. |
-| 7. Working software is the primary measure of progress.      |                                                              |
+| 1. Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.                       | 8. Agile processes promote sustainable development.                                                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------- |
+| 2. Welcome changing requirements, even late in development. Agile processes harness change for the customer's competitive advantage. | 9. The sponsors, developers, and users should be able to maintain a constant pace indefinitely.                               |
+| 3. Deliver working software frequently, from a couple of weeks to a couple of months, with a preference to the shorter time scale.   | 10. Continuous attention to technical excellence and good design enhances agility.                                            |
+| 4. Business people and developers must work together daily throughout the project.                                                   | 11. Simplicity—the art of maximizing the amount of work not done—is essential.                                                |
+| 5. Build projects around motivated individuals. Give them the environment and support they need, and trust them to get the job done. | 12. The best architectures, requirements, and designs emerge from self-organizing teams.                                      |
+| 6. The most efficient and effective method of conveying information to and within a development team is face-to-face conversation.   | 13. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly. |
+| 7. Working software is the primary measure of progress.                                                                              |                                                                                                                               |
 
-# What is Agile Modeling?
+## What is Agile Modeling?
 
 * The purpose of modeling (sketching UML, ...) is primarily to *understand*, not to document. UML can help quickly explore alternatives and the path to a good OO design.
 * Model and apply the UML for the unusual, difficult, tricky parts of the design space.
@@ -279,14 +279,14 @@ Agile Alliance ([www.agilealliance.com](http://www.agilealliance.com/)) with a m
 
 UML-sketch modeling on whiteboards is a practice I.
 
-# What is an Agile UP?
+## What is an Agile UP?
 
 1. Prefer a small set of activities and artifacts.
 2. Requiremments and designs adaptively emerge through iterations based on feedbacks.
 3. Apply UML with agile modeling practices.
 4. Phase Plan - High level plan and Detailed Plan - Iteration Plan.
 
-# Critical UP Practices?
+## Critical UP Practices?
 
 1. short timeboxed iterative
 2. evolutionary
@@ -300,7 +300,7 @@ UML-sketch modeling on whiteboards is a practice I.
 10. manage requirements
 11. practice change request and configuration management
 
-# What are the UP Phases?
+## What are the UP Phases?
 
 1. ***\*Inception—\**.** approximate vision, business case, scope, vague estimates.
 2. ***\*Elaboration—\**.** refined vision, iterative implementation of the **core architecture**, **resolution of high risks**, identification of **most requirements** and scope, more realistic estimates.
@@ -309,7 +309,7 @@ UML-sketch modeling on whiteboards is a practice I.
 
 ![**Figure 2.6. Schedule-oriented terms in the UP.**](../diagrams/UP-schedule-terms.gif)
 
-# What are the UP Disciplines?
+## What are the UP Disciplines?
 
 ![**Figure 2.7. UP disciplines.**](../diagrams/UP-disciplines.gif)
 
@@ -325,22 +325,22 @@ UML-sketch modeling on whiteboards is a practice I.
 
 ### Definition: What is the Development Case?
 
-**Table 2.1. Sample Development Case. s - start; r - refine**
+Table 2.1. Sample Development Case. s - start; r - refine
 
-| Discipline                  | Practice                                                     |           Artifact | Incep. | Elab.  | Const. | Trans. |
-| :-------------------------- | :----------------------------------------------------------- | -----------------: | :----: | :----: | :----: | :----: |
-|                             |                                                              |        Iteration → |   I1   | E1..En | C1..Cn | T1..T2 |
-| Business Modeling           | agile modeling req. workshop                                 |   **Domain Model** |        |   s    |        |        |
-| Requirements                | req. workshop vision box exercise dot voting                 | **Use-Case Model** |   s    |   r    |        |        |
-| Vision                      | s                                                            |                  r |        |        |        |        |
-| Supplementary Specification | s                                                            |                  r |        |        |        |        |
-| Glossary                    | s                                                            |                  r |        |        |        |        |
-| Design                      | agile modeling test-driven dev.                              |   **Design Model** |        |   s    |   r    |        |
-| SW Architecture Document    |                                                              |                  s |        |        |        |        |
-| Data Model                  |                                                              |                  s |   r    |        |        |        |
+| Discipline                  | Practice                                                                  |           Artifact | Incep. | Elab.  | Const. | Trans. |
+| :-------------------------- | :------------------------------------------------------------------------ | -----------------: | :----: | :----: | :----: | :----: |
+|                             |                                                                           |        Iteration → |   I1   | E1..En | C1..Cn | T1..T2 |
+| Business Modeling           | agile modeling req. workshop                                              |   **Domain Model** |        |   s    |        |        |
+| Requirements                | req. workshop vision box exercise dot voting                              | **Use-Case Model** |   s    |   r    |        |        |
+| Vision                      | s                                                                         |                  r |        |        |        |        |
+| Supplementary Specification | s                                                                         |                  r |        |        |        |        |
+| Glossary                    | s                                                                         |                  r |        |        |        |        |
+| Design                      | agile modeling test-driven dev.                                           |   **Design Model** |        |   s    |   r    |        |
+| SW Architecture Document    |                                                                           |                  s |        |        |        |        |
+| Data Model                  |                                                                           |                  s |   r    |        |        |        |
 | Implementation              | test-driven dev. pair programming continuous integration coding standards |                ... |        |        |        |        |
-| Project Management          | agile PM daily Scrum meeting                                 |                ... |        |        |        |        |
-| ...                         |                                                              |                    |        |        |        |        |
+| Project Management          | agile PM daily Scrum meeting                                              |                ... |        |        |        |        |
+| ...                         |                                                                           |                    |        |        |        |        |
 
 ### You Know You Didn't Understand Iterative Development or the UP When
 

@@ -1,9 +1,7 @@
 ---
-title: CS6300 SAD - Software Architecture(SWA)
 date: 'June 29, 2022'
 tags: ['OMSCS']
 ---
-
 # Software Architecture(SWA)
 
 ## Interview of Nenad Medvidovic

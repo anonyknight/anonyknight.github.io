@@ -1,9 +1,9 @@
 ---
-title: 4.Release
 summary:  Release/Delivery
 date: '2021-09-30'
 tags: ['DevSecOps', 'Release', 'CD']
 ---
+# 4.Release
 
 ## Problems
 
@@ -32,7 +32,7 @@ tags: ['DevSecOps', 'Release', 'CD']
 
 [What is Software Composition Analysis?](https://resources.whitesourcesoftware.com/blog-whitesource/sca-software-composition-analysis)
 
-### Tools
+### SCA Tools
 
 - [Retire.js: Finding Vulnerable Libraries](https://retirejs.github.io/retire.js/)
 - [OSSAudit: Auditing Python Packages](https://github.com/illikainen/ossaudit)
@@ -41,11 +41,13 @@ tags: ['DevSecOps', 'Release', 'CD']
 
 ## Compliance as Code(CAC)
 
-### Why is it important in DevSecOps?
+### Why is CAC important in DevSecOps?
 
-> The Compliance as Code phase makes the compliance a part of the DevSecOps pipeline and ensures that on every release, the test server adheres to the security policies defined for the project. This reduces the attack surface and obviously helps with becoming compliance-ready.
+> The Compliance as Code phase makes the compliance a part of the DevSecOps
+> pipeline and ensures that on every release, the test server adheres to the
+> security policies defined for the project. This reduces the attack surface and obviously helps with becoming compliance-ready.
 
-### Tools
+#### CAC Tools
 
 - [Inspec: Automating Compliance Checks](https://github.com/inspec/inspec)
 - [ServerSpec: Automating Configuration Tests](https://github.com/mizzy/serverspec)
@@ -56,7 +58,7 @@ tags: ['DevSecOps', 'Release', 'CD']
 [What is Vulnerability Management?](https://enterprise.comodo.com/blog/what-is-vulnerability-assessment/)  
 [Vulnerability Assessment vs Vulnerability management](https://www.hitachi-systems-security.com/blog/difference-vulnerability-assessments-vulnerability-management/)
 
-### Tools
+### Vulne Tools
 
 - [Archery - opensource vulnerability assessment and management tool](https://github.com/archerysec/archerysec)
 - [DefectDojo - security program and vulnerability management tool](https://github.com/DefectDojo/django-DefectDojo)

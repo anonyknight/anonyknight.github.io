@@ -1,5 +1,4 @@
 ---
-title: CS6300 SAD - Refactoring
 date: 'August 2, 2022'
 tags: ['OMSCS']
 ---

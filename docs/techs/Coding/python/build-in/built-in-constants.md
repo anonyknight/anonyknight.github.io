@@ -1,9 +1,10 @@
 ---
-title: Python Built-in Constants
 last_update:
   date: 'August 4, 2021'
 tags: ['Python']
 ---
+
+# Python Built-in Constants
 
 False
 
@@ -15,7 +16,7 @@ NotImplemented
 
 Ellipsis
 
-**debug**
+## debug
 
 \*\*\*\*
 
@@ -28,5 +29,3 @@ copyright
 credits
 license
 ```
-
-###

@@ -1,9 +1,8 @@
 ---
-title: CS6300 SAD - Agile Development Methods
 date: 'June 10, 2022'
 tags: ['OMSCS']
 ---
-# Agile Development Methods
+# CS6300 SAD Agile Development Methods
 
 ## Cost of change
 
@@ -27,14 +26,14 @@ From exponential to flat.
 
 ### XP Values and Principles
 
-**Principles**
+#### Principles
 
 * Communication
 * Simplicity
 * Feedback
 * Courage
 
-**Practices**
+#### Practices
 
 * Incremental planning
 * Small releases

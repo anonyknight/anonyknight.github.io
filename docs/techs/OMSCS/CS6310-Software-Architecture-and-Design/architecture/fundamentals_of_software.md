@@ -16,7 +16,7 @@ An **anti-pattern**:
 
 It occurs when an architect avoids or defers making an architecture decision out of fear of making the wrong choice.
 
-#### How to overcome?
+#### How to overcome Covering Your Assets?
 
 * Wait until the last responsible moment to make decision, waiting until you have enough information to justify and validate your decision, avoid fall into the *Analysis Paralysis* anti-pattern.
 * continually collaborate with development teams to ensure decisions are feasible for implementation.
@@ -25,7 +25,7 @@ It occurs when an architect avoids or defers making an architecture decision out
 
 It occurs when people don’t know why a decision was made, so it keeps getting discussed over and over and over.
 
-### How to overcome?
+### How to overcome Groundhog Day?
 
 Important to provide both **technical and business justifications** for the decisions.
 
@@ -40,7 +40,7 @@ Important to provide both **technical and business justifications** for the deci
 
 It occurs where people lose, forget, or don’t even know an architecture decision has been made and therefore cannot possibly implement that architecture decision.
 
-#### How to overcome?
+#### How to overcome Email-Driven Architecture?
 
 * To provide a link to the single system of record.
 * Only notify those people caring about the decision

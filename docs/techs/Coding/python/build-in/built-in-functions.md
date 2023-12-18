@@ -1,5 +1,4 @@
 ---
-title: Built-in Exceptions
 last_update:
   date: 'August 4, 2021'
 tags: ['python']
@@ -8,7 +7,7 @@ summary: 'https://docs.python.org/3/library/functions.html'
 
 # Built-in Functions
 
-### Python Built-in Functions Categories
+## Python Built-in Functions Categories
 
 | **Math** | programming | data | Functional | Object  |
 | :--- | :--- | :--- | :--- | :--- |

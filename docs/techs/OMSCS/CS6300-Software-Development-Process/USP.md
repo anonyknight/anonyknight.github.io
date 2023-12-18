@@ -1,5 +1,4 @@
 ---
-title: CS6300 SAD - Unified Software Process
 date: 'June 29, 2022'
 tags: ['OMSCS']
 ---

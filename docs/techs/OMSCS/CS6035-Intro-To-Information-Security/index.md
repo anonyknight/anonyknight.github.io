@@ -24,7 +24,8 @@ last_update:
 
 ## Potential Extra Credit
 
-### NOTE: THERE IS NO GUARANTEE EXTRA CREDIT. AN ANNOUNCEMENT WILL BE MADE WHEN AND IF EXTRA CREDIT IS AVAILABLE
+NOTE: THERE IS NO GUARANTEE EXTRA CREDIT. AN ANNOUNCEMENT WILL BE MADE WHEN
+AND IF EXTRA CREDIT IS AVAILABLE
 
 |   Project Name   |                                               Project Prerequisites:                                                |
 | :--------------: | :-----------------------------------------------------------------------------------------------------------------: |
@@ -52,13 +53,13 @@ Pindrop Security
 
 ## Part 2 - Prof. Wenke Lee
 
-### Research interests
+### Prof.Lee Research interests
 
 * Systems and network security
 * Applied cryptography
 * Data mining
 
-### 6035 course topics
+### Prof.Lee 6035 course topics
 
 * Cryptography
 * Security protocols
@@ -67,7 +68,7 @@ Pindrop Security
 * Web security
 * Mobile security
 
-### Company Co-Founder
+### Prof.Lee Company Co-Founder
 
 Amala
 

@@ -1,10 +1,9 @@
 ---
-title: Kubernetes
 date: '2021-08-13'
 tags: ['DevSecOps', 'tools']
 ---
 
-# Container
+# k8s Container
 
 ## [Images|Kubernetes](https://kubernetes.io/docs/concepts/containers/images/)
 

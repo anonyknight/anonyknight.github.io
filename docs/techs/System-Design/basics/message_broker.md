@@ -27,4 +27,4 @@ https://www.educba.com/zeromq-vs-rabbitmq/
 
 ### Head to Head Comparison Between ZeroMQ vs RabbitMQ
 
-![](https://cdn.educba.com/academy/wp-content/uploads/2020/02/ZeroMQ-vs-RabbitMQ.jpg.webp)
+![ZeroMQ-vs-RabbitMQ](https://cdn.educba.com/academy/wp-content/uploads/2020/02/ZeroMQ-vs-RabbitMQ.jpg.webp)

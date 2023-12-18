@@ -1,9 +1,9 @@
 ---
-title: Replication
 summary: Data replication.
 date: 'January 29, 2022'
 tags: ['System-Design']
 ---
+# Replication
 
 Master-Slave
 
@@ -15,7 +15,7 @@ Load balancer:
 active-active
 active-passive
 
-# Partition
+## Partition
 
 DNS:
 Geography based load balancing.

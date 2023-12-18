@@ -28,9 +28,9 @@ structuring the project to core, plugins, modules, and other independent pieces
 
 [Jenkins: Testing a full declarative pipeline in your Shared Library \\| Rubix](https://www.rubix.nl/blogs/jenkins-testing-a-full-declarative-pipeline-in-your-shared-library/)
 
-# Q&A
+## Q&A
 
-## What's two types of pipeline?
+### What's two types of pipeline?
 
 [Pipeline Syntax](https://www.jenkins.io/doc/book/pipeline/syntax/#compare)
 

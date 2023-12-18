@@ -1,11 +1,10 @@
 ---
-title: CM
 summary: Configuration Management
 date: '2021-08-08'
 tags: ['DevSecOps', 'tools']
 ---
 
-# Configuration Management
+# Configuration Management(CM)
 
 [Infrastructure as code - Wikipedia](https://en.wikipedia.org/wiki/Infrastructure_as_code)
 

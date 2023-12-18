@@ -9,13 +9,9 @@ tags: ['System-Design']
 
 ### Common termns
 
-**Brokers**
+**Brokers**: they receive data from producers, reliably store them and provide them into consumers.
 
-they receive data from producers, reliably store them and provide them into consumers.
-
-**Records**
-
-A message or an event stored in Kafka.
+**Records**: A message or an event stored in Kafka.
 
 ![Kafka message](../img/kafka.png)
 

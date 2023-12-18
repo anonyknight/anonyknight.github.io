@@ -1,10 +1,7 @@
 ---
-title: Kubernetes
 date: '2021-08-13'
 tags: ['DevSecOps', 'tools']
 ---
-
-
 # Kubernetes
 
 ## [What's k8s](https://kubernetes.io/docs/concepts/overview/what-is-kubernetes/)

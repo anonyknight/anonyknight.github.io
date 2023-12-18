@@ -1,12 +1,11 @@
 ---
-title: Python Build-in
 last_update:
   date: 'August 4, 2021'
 tags: ['python', 'programming']
 summary: 'https://docs.python.org/3/library/stdtypes.html'
 ---
 
-# Built-in Types
+# Python Built-in Types
 
 **What are the categories of built-in types?**  
 

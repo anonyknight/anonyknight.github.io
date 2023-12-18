@@ -1,5 +1,4 @@
 ---
-title: Supervised ML
 summary: Supervised Machine Learning Computational Learning Theory
 date: 'August 8, 2021'
 tags: ['OMSCS', 'Algorithms', 'Machine-Learning']

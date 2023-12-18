@@ -33,7 +33,7 @@ The main problem solved in one sentence:
 |            Phase Plan & Software Development Plan            | Low-precision guess for elaboration phase duration and effort. Tools, people, education, and other resources. |
 |                       Development Case                       | A description of the customized UP steps and artifacts for this project. In the UP, one always customizes it for the project. |
 
-[[†\] ](https://learning.oreilly.com/library/view/applying-uml-and/0131489062/ch04.html#ch04tn01)-These artifacts are only partially completed in this phase. They will be iteratively refined in subsequent iterations. Name capitalization implies an officially named UP artifact.
+[applying-uml-and-CH04](https://learning.oreilly.com/library/view/applying-uml-and/0131489062/ch04.html#ch04tn01)-These artifacts are only partially completed in this phase. They will be iteratively refined in subsequent iterations. Name capitalization implies an officially named UP artifact.
 
 #### May do some programming work
 
@@ -159,7 +159,7 @@ Two approaches:
 1. Discover the results, name the **goals** as use cases
 2. Write an actor-goal list first, review and refine, then draw the use case diagram.
 
-**Other Ways to Find Actors and Goals? Event Analysis**
+Other Ways to Find Actors and Goals? Event Analysis
 
 #### Step 4: Define Use Cases
 

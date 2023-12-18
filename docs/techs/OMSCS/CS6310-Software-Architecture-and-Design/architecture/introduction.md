@@ -66,7 +66,7 @@ Developed vocabulary of software designs
 * distributed, OO approach
 * pipeline
 
-**Examples**
+#### Examples: Software Architecture
 
 * International Standard Organization's
   Open Systems Interconnection Reference Model (a layered network
@@ -117,7 +117,7 @@ It defines a family of systems in terms of a **pattern of structural** organizat
 * bounded pipes, restricting the amount of data on a pipe
 * typed pipes, requre data passed between two filters have a well-defined type.
 
-#### Examples
+#### Examples: Pipe&Filters
 
 * Unix shell
 * compiler

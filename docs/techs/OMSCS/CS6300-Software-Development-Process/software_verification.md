@@ -1,5 +1,4 @@
 ---
-title: CS6300 SAD - Software Verification
 date: 'June 10, 2022'
 tags: ['OMSCS']
 ---
@@ -13,7 +12,7 @@ tags: ['OMSCS']
 * Inspection/Review
 * Formal proofs of correctness (state machine)
 
-### Testing
+### Testing Verifiation
 
 Input Domain D -> Software -> Output Domain O
 Individual test sets.

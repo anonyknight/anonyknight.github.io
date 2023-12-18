@@ -1,9 +1,8 @@
 ---
-title: Kubernetes Cmds
 date: '2021-08-13'
 tags: ['DevSecOps', 'tools']
 ---
-# Kubernates cmds
+# Kubernates Cmds
 
 ## General info and diagnostics
 

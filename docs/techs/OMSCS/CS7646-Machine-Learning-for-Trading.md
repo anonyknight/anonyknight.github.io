@@ -60,7 +60,9 @@ KNN needs to have standardized indicators.
 
 Use vectorizing code.
 
-### How do we combine indicators, sequentially? Or how do we assign weight or priority in developing a strategy?
+### How do we combine indicators, sequentially?
+
+Or how do we assign weight or priority in developing a strategy?
 
 * Find threshold for each indicators. Just use the threshold, then voting
 * Sequentially one by one (All should be true)
@@ -73,7 +75,7 @@ Start with 1 indicator first, see if it's better to add more indicators.
 ### **Financial, Investing, and Trading**
 
 * [What Hedge Funds Really Do](https://www.amazon.com/What-Hedge-Funds-Really-Introduction/dp/1631570897) (Book) - Required course book that is a concise source of the financial and investing material used in the course.
-* [Investments](https://www.amazon.com/ISE-Investments/dp/1260571157/ref=sr_1_1?crid=1INAHW066TEV0&dchild=1&keywords=investments&qid=1619046413&s=books&sprefix=investments%2Cstripbooks%2C267&sr=1-1) (Book) - A comprehensive book that covers the financial and investing material used in the course.
+* [Investments](https://www.amazon.com/ISE-Investments/dp/1260571157/ref=sr_1_1?crid=1INAHW066TEV0&dchild=1&keywords=investments&qid=1619046413&s=books&sprefix=investments%2Cstripbooks%2C267&sr=1-1)(Book) - A comprehensive book that covers the financial and investing material used in the course.
 * [Technical Analysis Explained](https://www.amazon.com/Technical-Analysis-Explained-Fifth-Successful/dp/0071825177/ref=sr_1_3?dchild=1&keywords=technical+analysis+pring&qid=1619046492&s=books&sr=1-3) (Book) - A good book that covers technical analysis. Useful as a reference for understanding indicators and manual trading strategies.
 * [Technical Analysis of Financial Markets](https://www.amazon.com/Technical-Analysis-Financial-Markets-Comprehensive/dp/0735200661/ref=sr_1_1?crid=1K3PBUGYFWTR2&dchild=1&keywords=technical+analysis+of+the+financial+markets+john+murphy&qid=1619046568&s=books&sprefix=technical+analysis+of+%2Cstripbooks%2C260&sr=1-1) (Book) - Another good book that covers technical analysis. Useful as a reference for understanding indicators and manual trading strategies.
 * [Stockcharts.com](http://stockcharts.com/) (Website) - A free and easy-to-use website that is useful for indicator education, trading strategies, and charting (using a variety of charting techniques).

@@ -108,7 +108,7 @@ Verification: did we build the system right?
 
 * Environment change (**adaptive** maintenance)
 
-**Regression testing**
+* **Regression testing**
 
 ### Software process model
 

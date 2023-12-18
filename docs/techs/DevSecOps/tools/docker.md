@@ -1,11 +1,8 @@
 ---
-title: Docker
 summary: Container technology, docker
 date: '2021-08-08'
 tags: ['DevSecOps', 'tools']
 ---
-
-
 # Docker
 
 [A Docker Tutorial for Beginners](https://docker-curriculum.com/#webapps-with-docker)
