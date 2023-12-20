@@ -4,7 +4,7 @@ tags: ['study', 'gatech']
 authors: [Dingan]
 ---
 
-# OMSCS
+# OMSCS Introduction
 
 ## Gatech [OMSCS](https://omscs.gatech.edu/)
 
