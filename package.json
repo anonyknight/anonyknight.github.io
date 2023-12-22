@@ -21,8 +21,8 @@
     "lint-staged": "lint-staged" 
   },
   "lint-staged": {
-    "*.{js,mjs,cjs,jsx,ts,tsx}": "npm run eslint-pre-commit",
-    "*.{md,mdx}": "npm run mdlint-pre-commit"
+    "*.{js,mjs,cjs,jsx,ts,tsx}": "pnpm run eslint-pre-commit",
+    "*.{md,mdx}": "pnpm run mdlint-pre-commit"
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",
