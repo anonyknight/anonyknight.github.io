@@ -2,7 +2,6 @@
 tags: ['programming']
 authors: [Dingan]
 ---
-
 # Python Code Quality
 
 Code quality is essential for software engineering. Here are the details about what I've learned for this topic.
@@ -10,7 +9,9 @@ Code quality is essential for software engineering. Here are the details about w
 
 ## Python Designer's view
 
-Python language designer has the following [PEP(Python Enhancement Proposals)](https://peps.python.org/pep-0000/)
+Python language designer discussed all Python proposals in [PEP(Python Enhancement Proposals)](https://peps.python.org/pep-0000/).
+
+These are key PEPs related to Python code quality.
 
 [PEP 20 - The Zen of Python](https://peps.python.org/pep-0020/)
 
