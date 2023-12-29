@@ -1,9 +1,10 @@
 ---
-title: DevSecOps - 0 Plan
 summary: Development Security and Operations Step 0 - Plan
 date: 'August 8, 2021'
 tags: ['DevSecOps']
 ---
+
+# 0 Plan
 
 ## Problems
 

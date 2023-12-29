@@ -3,7 +3,7 @@ date: 'August 8, 2021'
 tags: ['study', 'Cloud']
 ---
 
-# Cloud Infra study
+# Cloud Study
 
 ## [Google Cloud Platform (GCP)](https://en.wikipedia.org/wiki/Google_Cloud_Platform)
 
@@ -43,6 +43,10 @@ How to remove public IP from VMs? Users need to use Tunnels via cloud CLI and se
 
 * [Using IAP for TCP forwarding](https://cloud.google.com/iap/docs/using-tcp-forwarding)
 * [Connect to Linux VMs using Identity-Aware Proxy](https://cloud.google.com/compute/docs/connect/ssh-using-iap)
+
+## Tools
+
+[Terraform](https://www.terraform.io/) to manage the cloud resources and their states.
 
 ## References
 
