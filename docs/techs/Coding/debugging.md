@@ -1,6 +1,7 @@
 ---
 date: 'August 4, 2021'
 tags: ['linux']
+sidebar_position: 403
 ---
 # Debugging
 
