@@ -5,12 +5,13 @@ date: 'August 8, 2021'
 tags: ['CS']
 ---
 
-## Secured SDLC
+## SDLC
 
 [What is the secure software development life cycle (SDLC)? | Synopsys](https://www.synopsys.com/blogs/software-security/secure-sdlc/)
 
-<img title="" src="https://www.osolabs.com/wp-content/uploads/2019/09/devops-tools.png"
-alt="Devops Tools of the Trade" width="882" />
+## Secured SDLC
+
+Source: https://www.osolabs.com/blog/devops-tools-of-the-trade/
 
 [Microsoft Security Development Lifecycle](https://www.microsoft.com/en-us/securityengineering/sdl/)
 

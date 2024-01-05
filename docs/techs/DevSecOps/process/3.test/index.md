@@ -13,14 +13,15 @@ tags: ['DevSecOps', 'Automation', 'Test']
 ## Testing Techniques
 
 - Parametrized testing - Data Driven Testing
-
 - Behavior Driven testing.
 
 ## Python
 
-- [Pytest](https://docs.pytest.org/en/stable/getting-started.html)
-- [tox](https://tox.readthedocs.io/en/latest/)
+- [Pytest](https://github.com/pytest-dev/pytest) - Plugin-based test framework.
+- [tox](https://tox.readthedocs.io/en/latest/) - automate and standardize testing in Python
 - [Robot Framework](https://robotframework.org/)
+- [pexpect](https://github.com/pexpect/pexpect) - Expect-like module, a better tool for controlling other applications.
+- [paramiko](https://github.com/paramiko/paramiko) - SSH client and server functionality
 
 ## Java Family
 
@@ -49,3 +50,11 @@ tags: ['DevSecOps', 'Automation', 'Test']
 
 - [Loadrunner](https://www.microfocus.com/en-us/products/loadrunner-professional/overview)
 - [jmeter](https://jmeter.apache.org/)
+
+## A/B Testing
+
+A/B testing is essentially **an experiment where two or more variants of a page are shown to users at random, and statistical analysis is used to determine which variation performs better for a given conversion goal**.
+
+## Canary Testing
+
+Canary Testing is **a way to reduce risk and validate new software by releasing software to a small percentage of users**.

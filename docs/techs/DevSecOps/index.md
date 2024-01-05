@@ -1,10 +1,9 @@
 ---
-title: DevSecOps
-summary:  DevSecOps Introduction
 date: '2021-08-06'
-tags: ['DevSecOps', 'Security']
+tags: ['DevSecOps']
 ---
-## DevOps RoadMap
+
+# DevOps RoadMap
 
 [DevOps-Roadmap-Github](https://github.com/raycad/devops-roadmap)
 
@@ -17,6 +16,10 @@ tags: ['DevSecOps', 'Security']
 ![DevSecOps - ©PentesterAcademy.com](./images/DevSecOps.png)
 
 ## [DevSecOps Maturity Model(DSOMM)](https://dsomm.timo-pagel.de/)
+
+## DevOps Tools of the Trade
+
+![Devops Tools of the Trade](./images/DevOps-Tools-of-the-trade.png)
 
 ## Why DevSecOps
 >
@@ -32,3 +35,11 @@ tags: ['DevSecOps', 'Security']
 * [Azure Well Architected Framework](https://learn.microsoft.com/en-us/azure/architecture/framework/)
 * SRE Practices
 * [Cloud Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/patterns/)
+
+## Agile Manifesto
+
+Manifesto for Software Craftsmanship
+
+[Minifesto](http://minifesto.org/)
+
+[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
