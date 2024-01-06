@@ -18,7 +18,7 @@
     "eslint-pre-commit": "eslint --fix",
     "mdlint-fix": "markdownlint-cli2 --fix '**/*.md' '!.trunk' '!node_modules'",
     "mdlint-pre-commit": "markdownlint-cli2 --fix",
-    "lint-staged": "lint-staged" 
+    "lint-staged": "lint-staged"
   },
   "lint-staged": {
     "*.{js,mjs,cjs,jsx,ts,tsx}": "pnpm run eslint-pre-commit",
@@ -26,9 +26,9 @@
   },
   "dependencies": {
     "@cmfcmf/docusaurus-search-local": "^1.1.0",
-    "@docusaurus/core": "3.0.1",
-    "@docusaurus/preset-classic": "3.0.1",
-    "@docusaurus/theme-mermaid": "3.0.1",
+    "@docusaurus/core": "3.1.0",
+    "@docusaurus/preset-classic": "3.1.0",
+    "@docusaurus/theme-mermaid": "3.1.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
@@ -54,9 +54,9 @@
     "@babel/core": "^7.23.6",
     "@babel/eslint-parser": "^7.23.3",
     "@babel/preset-react": "^7.23.3",
-    "@docusaurus/eslint-plugin": "^3.0.1",
-    "@docusaurus/module-type-aliases": "3.0.1",
-    "@docusaurus/types": "3.0.1",
+    "@docusaurus/eslint-plugin": "^3.1.0",
+    "@docusaurus/module-type-aliases": "3.1.0",
+    "@docusaurus/types": "3.1.0",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^9.1.0",
