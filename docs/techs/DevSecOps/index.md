@@ -1,25 +1,24 @@
 ---
 date: '2021-08-06'
 tags: ['DevSecOps']
+sidebar_position: 399
 ---
 
-# DevOps RoadMap
+# DevSecOps Roadmap
 
-[DevOps-Roadmap-Github](https://github.com/raycad/devops-roadmap)
+## DevOps Tools of the Trade
+
+![Devops Tools of the Trade](./images/DevOps-Tools-of-the-trade.png)
+
+## DevOps RoadMap
 
 ![Devops](./images/devops.png)
 
 ## DevSecOps RoadMap
 
-[DevSecOps-RoadMap-Github](https://github.com/hahwul/DevSecOps)
-
 ![DevSecOps - ©PentesterAcademy.com](./images/DevSecOps.png)
 
 ## [DevSecOps Maturity Model(DSOMM)](https://dsomm.timo-pagel.de/)
-
-## DevOps Tools of the Trade
-
-![Devops Tools of the Trade](./images/DevOps-Tools-of-the-trade.png)
 
 ## Why DevSecOps
 >
@@ -43,3 +42,8 @@ Manifesto for Software Craftsmanship
 [Minifesto](http://minifesto.org/)
 
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
+## Reference
+
+[DevOps-Roadmap-Github](https://github.com/raycad/devops-roadmap)
+[DevSecOps-RoadMap-Github](https://github.com/hahwul/DevSecOps)
