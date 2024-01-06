@@ -4,12 +4,14 @@ authors: [Dingan]
 ---
 # Python Code Quality
 
-Code quality is essential for software engineering. Here are the details about what I've learned for this topic.
+Code quality is essential for software engineering.
+In Python community, Python designer generated several PEP(Python Enhancement Proposals).
 [Python Code Quality Authority](https://github.com/PyCQA) provided several tools for Python.
+Here are the details about what I've learned for this topic.
 
 ## Python Designer's view
 
-Python language designer discussed all Python proposals in [PEP(Python Enhancement Proposals)](https://peps.python.org/pep-0000/).
+Python language designer discussed all Python proposals in [PEP](https://peps.python.org/pep-0000/).
 
 These are key PEPs related to Python code quality.
 
@@ -17,11 +19,15 @@ These are key PEPs related to Python code quality.
 
 [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/)
 
-[PEP 484 - Type Hints](https://peps.python.org/pep-0484/)
-
 [PEP 257 - Docstring Conventions](https://peps.python.org/pep-0257/)
 
-## Code Style
+[PEP 482 - Literature Overview for Type Hints](https://peps.python.org/pep-0482/)
+
+[PEP 483 - The Theory of Type Hints](https://peps.python.org/pep-0483/)
+
+[PEP 484 - Type Hints](https://peps.python.org/pep-0484/) : Python 3.5, created 29-Sep-2014
+
+## PEP 8 Code Style
 
 [PEP 8 – Style Guide for Python Code](https://peps.python.org/pep-0008/) covers the following topics:
 
@@ -42,16 +48,16 @@ These are key PEPs related to Python code quality.
 
 **[pycodestyle/Pep8](https://github.com/PyCQA/pycodestyle)**  checks the Code style and [autopep8](https://github.com/hhatto/autopep8) can do the formatter.
 
-## Docstring Style
+## PEP 257 Docstring Style
 
 Following [PEP 257 - Docstring Conventions](https://peps.python.org/pep-0257/), we have three different style variations:
 
 * [Google](https://google.github.io/styleguide/pyguide.html) :  recommended by [Khan Academy](https://github.com/Khan/style-guides/blob/master/style/python.md#docstrings) , VS Code [extension](https://marketplace.visualstudio.com/items?itemName=njpwerner.autodocstring) can generate docstring.
 * [NumPy](https://numpydoc.readthedocs.io/en/latest/format.html) : NumPy, SciPy, and Pandas use it.
 
-* [Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html#:~:text=The Sphinx docstring format,-In general%2C a&text=A pair of %3Aparam%3A and,values returned by our code.) : used by [Django](https://docs.djangoproject.com/en/4.0/), [NumPy](https://numpy.org/doc/stable/reference/), [SciPy](https://docs.scipy.org/doc/scipy/reference/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), most basic docstring format.
+* [Sphinx](https://www.sphinx-doc.org/en/master/) : used by [Django](https://docs.djangoproject.com/en/4.0/), [NumPy](https://numpy.org/doc/stable/reference/), [SciPy](https://docs.scipy.org/doc/scipy/reference/), [Scikit-Learn](https://scikit-learn.org/stable/), [Matplotlib](https://matplotlib.org/), most basic docstring format.
 
-[3 Different Docstring Formats for Python](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)
+Reference: [3 Different Docstring Formats for Python](https://betterprogramming.pub/3-different-docstring-formats-for-python-d27be81e0d68)
 
 [Documenting Python code with Sphinx](https://towardsdatascience.com/documenting-python-code-with-sphinx-554e1d6c4f6d)
 
