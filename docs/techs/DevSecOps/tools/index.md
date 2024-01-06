@@ -1,13 +1,20 @@
 ---
-title: Tools Ecosystem
 summary: Fancy DevOps Tools to boost productivity
 date: '2021-08-08'
 tags: ['DevSecOps', 'tools']
 ---
 
+# Tools
+
 ## DevOps Tools Ecosystem 2021
 
-![DevOps Tools Ecosystem 2021](https://harness.io/wp-content/uploads/2018/01/DevOps_Ecosystem_v2.jpg)
+![DevOps Tools Ecosystem 2021](../images/DevOps_Ecosystem_v2.jpeg)
+
+Reference:
+
+[UNDERSTAND DEVOPS ECOSYSTEM TO APPLY TRENDING PATTERNS](https://vedcraft.com/tech-trends/tech-tips/understand-devops-ecosystem-to-apply-trending-patterns/)
+
+[Project to Product: A Cambrian Explosion of DevOps Tools](https://blog.planview.com/de/a-cambrian-explosion-of-devops-tools/)
 
 ## Remote debugger
 
