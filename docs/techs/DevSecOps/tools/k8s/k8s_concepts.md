@@ -137,3 +137,9 @@ Adding nodes:
 - kubelet can self-register
 
 - user manually add
+
+## Pod
+
+Pod is the smallest deployable unit, one or more containers with **shared resources and network.** It can contain [init containers](https://kubernetes.io/docs/concepts/workloads/pods/init-containers/) and [ephemeral containers](https://kubernetes.io/docs/concepts/workloads/pods/ephemeral-containers/) for debugging.
+
+Workload resource manage pods: [Deployment](https://kubernetes.io/docs/concepts/workloads/controllers/deployment/) or [Job](https://kubernetes.io/docs/concepts/workloads/controllers/job/). track state [StatefulSet](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)

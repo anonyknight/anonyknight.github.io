@@ -43,3 +43,7 @@ The Blue/Green naming is just a way to distinguish between two separate environm
 [5 Blue Green Deployment Best Practices for a Smooth Release](https://www.blazemeter.com/blog/blue-green-deployment-testing)
 
 [What Is Blue-Green Deployment?](https://semaphoreci.com/blog/blue-green-deployment)
+
+## Canary Deployment
+
+[What Is Canary Deployment?](https://semaphoreci.com/blog/what-is-canary-deployment)
