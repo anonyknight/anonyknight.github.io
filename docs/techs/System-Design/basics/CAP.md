@@ -1,10 +1,10 @@
 ---
-title: CAP Theorem
 summary: Consistency, Availability, Partition 
 date: 'January 29, 2022'
 tags: ['System-Design']
 ---
 
+# CAP Theorem
 
 [IBM CAP doc](https://www.ibm.com/cloud/learn/cap-theorem)
 

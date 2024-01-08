@@ -1,11 +1,10 @@
----
-date: 'November 13, 2023'
-tags: ['OMSCS']
----
+# Yield-Harvest
 
-# CS6210-AOS
+Yield: queries completed / queries offered
 
-## Giant-Scale Services
+Harvest: data available / complete data.
+
+DQ Value = Data per query \* Queries/sec ~ constant
 
 [Building Giant-Scale Services: Key Lessons](https://www.linkedin.com/pulse/building-giant-scale-services-key-lessons-nathaniel-payne/)
 
