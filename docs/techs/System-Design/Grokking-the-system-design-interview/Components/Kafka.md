@@ -27,7 +27,7 @@ Publish records to Kafka
 
 ### Consumers
 
-Subcriber of kafka topics.
+Subscriber of kafka topics.
 
 ### High Level Architecture
 
