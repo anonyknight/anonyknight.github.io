@@ -18,7 +18,7 @@
         "kind": "build",
         "isDefault": true
       },
-      "detail": "docusaurus build",
+      "detail": "docusaurus start",
       "command": "pnpm run start"
     }
   ]

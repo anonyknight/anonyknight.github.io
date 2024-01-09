@@ -1,8 +1,9 @@
 ---
-title: Introduction\:System Design Patterns
 date: 'January 30, 2022'
 tags: ['System-Design']
 ---
+
+# Introduction: System Design Patterns
 
 1. Bloom Filters
 2. Consistent Hashing

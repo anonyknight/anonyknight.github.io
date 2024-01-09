@@ -5,7 +5,7 @@ last_update:
   date: 'August 19, 2023'
 ---
 
-[Review](https://www.omscentral.com/courses/distributed-computing/reviews)
+[Review](https://www.omscentral.com/courses/special-topics-systems-issues-in-cloud-computing/reviews)
 
 ## Projects
 
