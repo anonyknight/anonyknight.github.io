@@ -2,6 +2,7 @@ position: 20100 # float position is supported
 collapsible: true # make the category collapsible
 collapsed: true # keep the category open by default
 className: red
+label: Web App arch
 link:
   type: generated-index
   title: Web App Architecture
