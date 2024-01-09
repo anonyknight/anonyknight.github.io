@@ -6,8 +6,8 @@ tags: ['System-Design']
 
 # Kafka
 
-[Kafka intro](https://docs.confluent.io/5.5.1/kafka/introduction.html)
+[Introduction to Kafka](https://docs.confluent.io/kafka/introduction.html)
 
-![kafka-apis](https://docs.confluent.io/5.5.1/_images/kafka-apis.png)
+[Kafka APIs](https://docs.confluent.io/kafka/kafka-apis.html)
 
 The Kafka cluster stores streams of *records* in categories called *topics*.

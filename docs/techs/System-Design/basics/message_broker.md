@@ -9,7 +9,7 @@ tags: ['System-Design']
 
 Is there anyone to pickup the phone? Otherwise, we need to have a voicemail.
 
-If the server cannot accept the request right away, we need to have a broker to store the message first.
+If the server cannot accept the request right away, we need to have a **broker** to store the message first.
 
 ## [RabbitMQ - AMQP](https://www.erlang-solutions.com/blog/an-introduction-to-rabbitmq-what-is-rabbitmq/)
 
@@ -28,3 +28,5 @@ https://www.educba.com/zeromq-vs-rabbitmq/
 ### Head to Head Comparison Between ZeroMQ vs RabbitMQ
 
 ![ZeroMQ-vs-RabbitMQ](https://cdn.educba.com/academy/wp-content/uploads/2020/02/ZeroMQ-vs-RabbitMQ.jpg.webp)
+
+## Kafka

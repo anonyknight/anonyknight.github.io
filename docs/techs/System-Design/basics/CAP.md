@@ -10,23 +10,19 @@ tags: ['System-Design']
 
 ## 1. Consistency
 
-## Week consistency
+### Weak consistency
 
-After a W, R may or may not see it.
-VoIP, video chat, realtime
+After a W, R may or may not see it: VoIP, video chat, realtime.
+
 Memcached
 
-## Eventual Consistency - Data is replicated asynchronously
+### Eventual Consistency - Data is replicated asynchronously
 
-Highly available systems.
-After a W, R will eventually see it.
-Email or DNS.
+Highly available systems with NoSQLDB: after a W, R will eventually see it: Email or DNS.
 
-## Strong consistency - transaction based systems
+### Strong consistency - transaction based systems
 
-After W, R will see it.
-
-file systems and RDBMSes.
+After W, R will see it: file systems and RDBMSes.
 
 [Google I/O 2009 - Transactions Across Datacenters.. - YouTube](https://www.youtube.com/watch?v=srOgpXECblk)
 

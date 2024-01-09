@@ -1,9 +1,12 @@
 ---
-title: LB
 summary: Load Balancer
 date: 'January 29, 2022'
 tags: ['System-Design']
 ---
+
+# Load Balancer(LB)
+
+LB can be applied in any layer above IP network.
 
 ## scalability
 
@@ -22,6 +25,7 @@ RAM:
 ### Horizontal scalling
 
 <b>Cheaper hardware </b>
+
 Distributed backend server.
 Load balancer
 

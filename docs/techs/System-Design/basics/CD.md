@@ -13,3 +13,7 @@ tags: ['System-Design']
 [Using Blue-Green Deployment to Reduce Downtime and Risk](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
 
 [Deployment patterns - Octopus Deploy](https://octopus.com/docs/deployment-patterns)
+
+## Canary Deployment
+
+Apply the newer verison in small part of users.
