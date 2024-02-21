@@ -24,6 +24,7 @@
 ## OOD Interview
 
 - [Interviewready](http://interviewready.io)
+- [LLDCoding](http://lldcoding.com)
 - [OOD by educative](http://educative.io)
 - [Head First Design Patterns Book](http://amazon.com/Head-First-Design-Patterns-Brain-Friendly/dp/0596007124)
 
