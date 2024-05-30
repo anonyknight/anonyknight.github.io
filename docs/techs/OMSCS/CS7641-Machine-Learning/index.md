@@ -1,5 +1,5 @@
 ---
-title: Machine Learning
+title: CS7641-Machine Learning
 summary: Machine Learning algorithms and its application
 date: 'August 8, 2021'
 tags: ['OMSCS', 'Algorithms', 'Machine-Learning']
