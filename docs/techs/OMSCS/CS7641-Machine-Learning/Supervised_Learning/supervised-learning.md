@@ -1,6 +1,6 @@
 ---
 title: CS7641-SL
-summary: CS7641 Supervised Learning
+summary: CS7641 Supervised Learning types
 date: 'January 22, 2022'
 tags: ['OMSCS', 'Machine-Learning']
 ---
@@ -8,6 +8,31 @@ tags: ['OMSCS', 'Machine-Learning']
 ## Classification vs regression
 
 Discrete labels vs continuous label
+
+### Regression
+
+Mapping continuous input to output.
+
+People's height **regresses** to the mean.
+
+* What prevent us from all being the same height?
+
+The noise from DNA combinations.
+
+The idea to find the regression to function approximation.
+
+## Linear regression
+
+### Find the best fit functions for data point
+
+Use calculus. Get assumption first, then find the optimal solution from calculus.
+
+* Historical facts
+* model selection and under/over fitting
+* Cross validation
+* Linear, polynomial regression
+* Best constant in terms of squared error: mean
+* Representation for regression.
 
 ## Classification Learning
 

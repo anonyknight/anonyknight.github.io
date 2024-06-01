@@ -27,7 +27,7 @@ Learners need to eliminate as many as I can as a learner
 
 ### Steps
 
-1. Show what's irrelabant.
+1. Show what's irrelavant.
 2. Show what's relevant.
 
 ### Learn with Constrained Queries

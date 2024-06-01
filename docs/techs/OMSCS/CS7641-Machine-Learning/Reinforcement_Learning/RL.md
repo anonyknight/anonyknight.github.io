@@ -9,7 +9,7 @@ tags: ['OMSCS', 'Algorithms', 'Machine-Learning']
 A problem:
 **The goal** is to choose an action in response to each data point.
 
-![RL Robot](./RL-Robot.png)
+![RL Robot](../images/RL-Robot.png)
 
 Robot: Sense Think Act cycle.
 

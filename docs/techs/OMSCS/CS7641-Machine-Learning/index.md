@@ -15,6 +15,10 @@ tags: ['OMSCS', 'Algorithms', 'Machine-Learning']
 
 [Google AI Education](https://ai.google/education/)
 
+**Note**: The goal of Machine Learning is "Generalization".
+
+One meaning of "fold": A pen or enclosure in a field where livestock, esp. sheep, can be kept. (I don't think this meaning has anything to do with cross-validation, though.) Oh, wait, I found it: "consisting of so many parts or facets." So, *n-fold cross validation* means the data is in n parts. -ML
+
 ### Supervised Learning
 
 The data points contain X and labeled Y.

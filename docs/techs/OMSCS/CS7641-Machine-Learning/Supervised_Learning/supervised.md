@@ -14,4 +14,3 @@ Give data set X, Y as the label, predict the Y' Label for the testing data set X
 * SVM
 * Artificial Neural Networks
 * Random Forests
-  
