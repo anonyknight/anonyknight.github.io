@@ -6,10 +6,19 @@
       "type": "shell",
       "group": {
         "kind": "build",
-        "isDefault": true
       },
       "detail": "docusaurus start",
       "command": "pnpm run start"
+    },
+    {
+      "label": "build",
+      "type": "shell",
+      "group": {
+        "kind": "build",
+        "isDefault": true
+      },
+      "detail": "docusaurus build",
+      "command": "pnpm run build"
     }
   ]
 }
