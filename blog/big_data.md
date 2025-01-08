@@ -16,3 +16,5 @@ authors: [Dingan]
 [MLOps: Machine Learning Life Cycle](https://www.ml4devs.com/articles/mlops-machine-learning-life-cycle/)
 
 [Serverless Computing on AWS, Azure, and Google Cloud](https://www.ml4devs.com/articles/serverless-architecture-for-microservices-on-aws-vs-google-cloud-vs-azure-as-iaas-caas-paas-faas/)
+
+<!--truncate-->

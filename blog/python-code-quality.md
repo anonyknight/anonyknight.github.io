@@ -7,6 +7,9 @@ authors: [Dingan]
 Code quality is essential for software engineering.
 In Python community, Python designer generated several PEP(Python Enhancement Proposals).
 [Python Code Quality Authority](https://github.com/PyCQA) provided several tools for Python.
+
+<!--truncate-->
+
 Here are the details about what I've learned for this topic.
 
 ## Python Designer's view

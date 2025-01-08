@@ -4,6 +4,8 @@ Lectures are optional. This course is projects based: 7 mandatory projects,
 1 bonus projects. Overall, this is ha ands-on course. I practiced my skills across various topics
 about software securities.
 
+<!--truncate-->
+
 ## Projects, score percentage and its spent time
 
 ### Man in the Middle 13% - 11 hrs

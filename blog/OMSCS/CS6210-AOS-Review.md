@@ -6,6 +6,8 @@ The course content includes weekly hangeout sessions, 4 refresh lectures, 11 lec
 4 projects, 3 exams, 2 paper summaries out of 40+ papers. Lectures cover those high
 level ideas from those 40+ papers.
 
+<!--truncate-->
+
 ## Refresh lectures
 
 Those lectures were in very concise and high quality. I've spent 12 hrs to review them
