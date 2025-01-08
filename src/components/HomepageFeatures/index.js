@@ -13,19 +13,19 @@ const FeatureList = [
   {
     title: "Techs",
     image: <BookSVG />,
-    description: "Structured notes for software engineering career.",
+    description: "My software engineering career structured notes",
     path: "/docs/techs",
   },
   {
     title: "Readings",
     image: <BookSVG />,
-    description: "Structured notes for life-long learning.",
+    description: "My life-long learning structured notes",
     path: "/docs/readings",
   },
   {
     title: "Blogs",
     image: <BlogSVG />,
-    description: "Random topics from daily study, work and life.",
+    description: "My random thoughts about study, work and life.",
     path: "/blog",
   },
   //   {

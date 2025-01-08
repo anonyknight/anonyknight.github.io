@@ -6,6 +6,8 @@ import {
   HomepageHeader,
 } from "@site/src/components/HomepageFeatures";
 
+import CareerJourney from "@site/src/components/mdx/CareerJourney.mdx";
+
 export default function Home() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -17,6 +19,9 @@ export default function Home() {
       <main>
         <HomepageFeatures />
       </main>
+      <div className="flex flex-col items-center  mt-8">
+        <CareerJourney />
+      </div>
     </Layout>
   );
 }
