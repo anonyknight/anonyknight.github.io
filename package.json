@@ -25,10 +25,10 @@
     "*.{md,mdx}": "pnpm run mdlint-pre-commit"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^1.1.0",
-    "@docusaurus/core": "3.1.0",
-    "@docusaurus/preset-classic": "3.1.0",
-    "@docusaurus/theme-mermaid": "3.1.0",
+    "@cmfcmf/docusaurus-search-local": "^1.2.0",
+    "@docusaurus/core": "3.7.0",
+    "@docusaurus/preset-classic": "3.7.0",
+    "@docusaurus/theme-mermaid": "3.7.0",
     "@fortawesome/fontawesome-svg-core": "^6.5.1",
     "@fortawesome/free-brands-svg-icons": "^6.5.1",
     "@fortawesome/free-regular-svg-icons": "^6.5.1",
@@ -48,15 +48,16 @@
     "rehype-katex": "^7.0.0",
     "remark-math": "^6.0.0",
     "swc-loader": "^0.2.3",
-    "tailwindcss": "^3.3.3"
+    "tailwindcss": "^3.3.3",
+    "update-browserslist-db": "^1.1.1"
   },
   "devDependencies": {
     "@babel/core": "^7.23.6",
     "@babel/eslint-parser": "^7.23.3",
     "@babel/preset-react": "^7.23.3",
-    "@docusaurus/eslint-plugin": "^3.1.0",
-    "@docusaurus/module-type-aliases": "3.1.0",
-    "@docusaurus/types": "3.1.0",
+    "@docusaurus/eslint-plugin": "^3.7.0",
+    "@docusaurus/module-type-aliases": "3.7.0",
+    "@docusaurus/types": "3.7.0",
     "eslint": "^8.56.0",
     "eslint-config-airbnb": "^19.0.4",
     "eslint-config-prettier": "^9.1.0",
