@@ -25,7 +25,6 @@
     "*.{md,mdx}": "pnpm run mdlint-pre-commit"
   },
   "dependencies": {
-    "@cmfcmf/docusaurus-search-local": "^1.2.0",
     "@docusaurus/core": "3.7.0",
     "@docusaurus/preset-classic": "3.7.0",
     "@docusaurus/theme-mermaid": "3.7.0",

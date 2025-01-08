@@ -74,7 +74,6 @@ const config = {
     ],
   ],
   plugins: [
-    require.resolve("@cmfcmf/docusaurus-search-local"),
     async function myPlugin() {
       return {
         name: "docusaurus-tailwindcss",
