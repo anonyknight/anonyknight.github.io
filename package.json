@@ -38,6 +38,8 @@
     "autoprefixer": "^10.4.20",
     "clsx": "^1.2.1",
     "d3": "^7.9.0",
+    "docusaurus-lunr-search": "^3.5.0",
+    "lunr": "^2.3.9",
     "mermaid": "^10.9.3",
     "postcss": "^8.4.49",
     "prism-react-renderer": "^2.4.1",
